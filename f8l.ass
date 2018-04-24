@@ -1,0 +1,605 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: fonte legenda,Tahoma,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para abertura e encerramento,@GungsuhChe,30,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para anuncio de episódio e creditos,Brush Script Std,35,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: LEGENDA PARA PODERES,AR JULIAN,35,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: anuncio dos locais,Tekton Pro Ext,35,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:24.36,0:00:29.56,fonte legenda,,0000,0000,0000,,A Galáxia do Sul foi destruída\Npor causa do ataque do Super Saiya-jin.
+Dialogue: 0,0:00:31.60,0:00:35.54,fonte legenda,,0000,0000,0000,,E-Então, a Galáxia do Sul foi realmente...
+Dialogue: 0,0:00:39.97,0:00:41.87,fonte legenda,,0000,0000,0000,,Dessa forma...
+Dialogue: 0,0:00:43.88,0:00:47.25,fonte legenda,,0000,0000,0000,,...até a minha\NGaláxia do Norte será destruída!
+Dialogue: 0,0:01:00.06,0:01:05.47,legenda para abertura e encerramento,,0000,0000,0000,,Passe pelas nuvens brilhantes,\Ne Fly Away, (Fly Away)
+Dialogue: 0,0:01:05.47,0:01:12.47,legenda para abertura e encerramento,,0000,0000,0000,,Como um panorama que se\Nespalha por todo o meu ser
+Dialogue: 0,0:01:12.47,0:01:18.01,legenda para abertura e encerramento,,0000,0000,0000,,A Terra em seu rosto\Nferido se enfurece (enfurece)!
+Dialogue: 0,0:01:18.01,0:01:24.75,legenda para abertura e encerramento,,0000,0000,0000,,E faz um vulcão explodir!
+Dialogue: 0,0:01:24.75,0:01:31.13,legenda para abertura e encerramento,,0000,0000,0000,,E bem no fundo derretendo o gelo
+Dialogue: 0,0:01:31.13,0:01:40.33,legenda para abertura e encerramento,,0000,0000,0000,,eu acho um dinossauro, quero\Nensiná-lo a se equilibrar sobre uma bola
+Dialogue: 0,0:01:40.33,0:01:43.50,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:43.50,0:01:52.71,legenda para abertura e encerramento,,0000,0000,0000,,Não importa o que aconteça sinto\Ncomo se nada pudesse me incomodar
+Dialogue: 0,0:01:52.71,0:01:56.08,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:56.08,0:02:02.06,legenda para abertura e encerramento,,0000,0000,0000,,Meu coração está batendo tão forte,\Na Genki-Dama irá rugir!
+Dialogue: 0,0:02:02.06,0:02:05.36,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:02:05.36,0:02:14.44,legenda para abertura e encerramento,,0000,0000,0000,,Quanto mais vazia sua cabeça é, mais\Nespaço tem para preencher com sonhos
+Dialogue: 0,0:02:14.44,0:02:18.01,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:02:18.01,0:02:25.31,legenda para abertura e encerramento,,0000,0000,0000,,Com uma cara alegre e um Ultra-Z,\Nhoje está ai-yai-yai-yai-yai...
+Dialogue: 0,0:02:25.31,0:02:26.30,legenda para abertura e encerramento,,0000,0000,0000,,Sparking!
+Dialogue: 0,0:02:38.44,0:02:41.98,legenda para anuncio de episódio e creditos,,0000,0000,0000,,ELEVE SEU ESPIRITO AO MÁXIMO. \NA PERIGOSA BATALHA SANGRENTA.\N"LEGENDAS: MAZZOCATO"\N"EDIÇÃO: HUGOKAMUS"
+Dialogue: 0,0:02:45.97,0:02:50.17,fonte legenda,,0000,0000,0000,,Goku-san, hoje é um grande dia\Nporque eles estão entrevistando os pais!
+Dialogue: 0,0:02:50.17,0:02:51.77,fonte legenda,,0000,0000,0000,,E nós, pais, vamos ser testados.
+Dialogue: 0,0:02:51.77,0:02:55.74,fonte legenda,,0000,0000,0000,,Mas Gohan, Bulma e os outros\Nestão por aí numa feira de exibição de flores.
+Dialogue: 0,0:02:55.74,0:02:58.21,fonte legenda,,0000,0000,0000,,E eu também queria ir!
+Dialogue: 0,0:02:59.31,0:03:01.05,fonte legenda,,0000,0000,0000,,Chichi, vai demorar?
+Dialogue: 0,0:03:01.05,0:03:04.89,fonte legenda,,0000,0000,0000,,Ainda temos que esperar\Nmais duas horas. Ou mais ainda.
+Dialogue: 0,0:03:04.89,0:03:09.89,fonte legenda,,0000,0000,0000,,Aww, tudo isso? Essa roupa está\Nme apertando tanto que não agüento mais!
+Dialogue: 0,0:03:09.89,0:03:11.66,fonte legenda,,0000,0000,0000,,Minha nuca está ficando dura.
+Dialogue: 0,0:03:11.66,0:03:14.13,fonte legenda,,0000,0000,0000,,Temos que causar uma\Nboa impressão sobre nós mesmos.
+Dialogue: 0,0:03:14.13,0:03:16.70,fonte legenda,,0000,0000,0000,,Além disso, você tem que responder\Ncomo estávamos praticando na noite passada,
+Dialogue: 0,0:03:16.70,0:03:20.33,fonte legenda,,0000,0000,0000,,ou então Gohan-chan\Nnão vai conseguir estudar nessa escola!
+Dialogue: 0,0:03:20.33,0:03:24.91,fonte legenda,,0000,0000,0000,,Goku-san, vamos praticar de novo.\N"Quais são os hobbies do pai?"
+Dialogue: 0,0:03:24.91,0:03:28.18,fonte legenda,,0000,0000,0000,,Um hobby é algo que eu gosto de fazer, certo?
+Dialogue: 0,0:03:28.18,0:03:30.74,fonte legenda,,0000,0000,0000,,Então seria lutar contra caras muito fortes!
+Dialogue: 0,0:03:30.74,0:03:35.84,fonte legenda,,0000,0000,0000,,Não pode dizer isso!\NDiga "Meus hobbies são leitura e esportes."
+Dialogue: 0,0:03:44.09,0:03:48.96,fonte legenda,,0000,0000,0000,,Wow, agora! Whoosh, olhem pra mim!
+Dialogue: 0,0:03:48.96,0:03:51.57,fonte legenda,,0000,0000,0000,,Ele não é apenas um velho sujo, hein?
+Dialogue: 0,0:03:51.57,0:03:56.17,fonte legenda,,0000,0000,0000,,A-Aí, o que vocês acham?\NGirando os pratos impressionantemente, hein?
+Dialogue: 0,0:03:56.17,0:03:58.23,fonte legenda,,0000,0000,0000,,Wow, bom, bom! Você é bom!
+Dialogue: 0,0:03:59.94,0:04:06.21,fonte legenda,,0000,0000,0000,,Goku-san, há quatro casais na nossa frente.\NDepois somos nós!
+Dialogue: 0,0:04:06.21,0:04:08.98,fonte legenda,,0000,0000,0000,,Chichi, estou com fome!
+Dialogue: 0,0:04:08.98,0:04:10.95,fonte legenda,,0000,0000,0000,,Espere mais um pouco!
+Dialogue: 0,0:04:11.82,0:04:14.42,fonte legenda,,0000,0000,0000,,Goku-san, quais são seus hobbies?
+Dialogue: 0,0:04:14.42,0:04:17.19,fonte legenda,,0000,0000,0000,,Eu posso responder\Nleitura e esportes nessa, certo?
+Dialogue: 0,0:04:17.19,0:04:22.00,fonte legenda,,0000,0000,0000,,É isso mesmo!\N"Então, quais são suas palavras favoritas?"
+Dialogue: 0,0:04:22.00,0:04:23.33,fonte legenda,,0000,0000,0000,,Palavras?
+Dialogue: 0,0:04:24.60,0:04:28.04,fonte legenda,,0000,0000,0000,,Não tenho palavras favoritas em particular.
+Dialogue: 0,0:04:28.04,0:04:31.17,fonte legenda,,0000,0000,0000,,Entretanto, se tratando de comida,\Nposso comer qualquer coisa!
+Dialogue: 0,0:04:31.17,0:04:36.28,fonte legenda,,0000,0000,0000,,Não, não, não! Não pode dizer isso!
+Dialogue: 0,0:04:36.28,0:04:37.61,fonte legenda,,0000,0000,0000,,"Amizade..."
+Dialogue: 0,0:04:37.61,0:04:38.61,fonte legenda,,0000,0000,0000,,"Esforço..."
+Dialogue: 0,0:04:38.61,0:04:39.78,fonte legenda,,0000,0000,0000,,"Vitória..."
+Dialogue: 0,0:04:39.78,0:04:43.15,fonte legenda,,0000,0000,0000,,Você tem de dizer essas três palavras!
+Dialogue: 0,0:04:43.15,0:04:44.79,fonte legenda,,0000,0000,0000,,Entendeu?
+Dialogue: 0,0:04:44.79,0:04:49.19,fonte legenda,,0000,0000,0000,,Chichi,\Nessa entrevista é um concurso de mentiras?
+Dialogue: 0,0:04:49.19,0:04:52.03,fonte legenda,,0000,0000,0000,,Aah, minha cabeça está doendo.
+Dialogue: 0,0:04:52.03,0:04:54.69,fonte legenda,,0000,0000,0000,,- Bem, então devemos voltar?\N- Não podemos fazer isso!
+Dialogue: 0,0:04:58.93,0:05:03.80,fonte legenda,,0000,0000,0000,,E agora, meu...
+Dialogue: 0,0:05:03.80,0:05:07.81,fonte legenda,,0000,0000,0000,,desejo é que...
+Dialogue: 0,0:05:07.81,0:05:09.64,fonte legenda,,0000,0000,0000,,Ele é muito bom!
+Dialogue: 0,0:05:09.64,0:05:12.31,fonte legenda,,0000,0000,0000,,Ele tem um jeito próprio de cantar.
+Dialogue: 0,0:05:12.31,0:05:14.42,fonte legenda,,0000,0000,0000,,Ele é tão bom assim?
+Dialogue: 0,0:05:14.42,0:05:17.82,fonte legenda,,0000,0000,0000,,Vai, Kuririn!
+Dialogue: 0,0:05:17.82,0:05:19.81,fonte legenda,,0000,0000,0000,,O melhor do Japão!
+Dialogue: 0,0:05:21.92,0:05:26.83,fonte legenda,,0000,0000,0000,,...nas asas de marfim...
+Dialogue: 0,0:05:26.83,0:05:29.66,fonte legenda,,0000,0000,0000,,Kuririn, seu rato, você\Nnão vai se safar dessa!
+Dialogue: 0,0:05:42.34,0:05:44.61,fonte legenda,,0000,0000,0000,,Sobre o céu...
+Dialogue: 0,0:05:44.61,0:05:52.62,fonte legenda,,0000,0000,0000,,...Eu desejo abrir\Nbem minhas asas e ir em frente...
+Dialogue: 0,0:05:52.62,0:05:59.63,fonte legenda,,0000,0000,0000,,...mais uma vez, para sua cidade,\Nenquanto a liberdade dos céus...
+Dialogue: 0,0:05:59.63,0:06:01.30,fonte legenda,,0000,0000,0000,,Vegeta-sama...
+Dialogue: 0,0:06:01.30,0:06:02.96,fonte legenda,,0000,0000,0000,,O que vocês querem?
+Dialogue: 0,0:06:02.96,0:06:05.97,fonte legenda,,0000,0000,0000,,Nós temos procurado por você,\NPríncipe Vegeta.
+Dialogue: 0,0:06:05.97,0:06:13.24,fonte legenda,,0000,0000,0000,,...mais uma vez, para sua cidade, enquanto\Na liberdade dos céus, nas minhas asas...
+Dialogue: 0,0:06:13.24,0:06:15.58,fonte legenda,,0000,0000,0000,,Você é um Saiya-jin, não é?
+Dialogue: 0,0:06:15.58,0:06:17.91,fonte legenda,,0000,0000,0000,,Eu sou Paragas.
+Dialogue: 0,0:06:17.91,0:06:25.65,fonte legenda,,0000,0000,0000,,...Eu desejo ir!
+Dialogue: 0,0:06:29.59,0:06:34.06,fonte legenda,,0000,0000,0000,,Fiz Gohan estudar tanto para que, no fim,
+Dialogue: 0,0:06:34.06,0:06:38.27,fonte legenda,,0000,0000,0000,,ele se torne um cientista maravilhoso, sim.
+Dialogue: 0,0:06:38.27,0:06:41.94,fonte legenda,,0000,0000,0000,,Goku... Goku, pode me ouvir?
+Dialogue: 0,0:06:41.94,0:06:43.60,fonte legenda,,0000,0000,0000,,Kaioh-sama?
+Dialogue: 0,0:06:43.60,0:06:45.61,fonte legenda,,0000,0000,0000,,Já faz algum tempo, hein?
+Dialogue: 0,0:06:45.61,0:06:50.28,fonte legenda,,0000,0000,0000,,Goku, algo terrível aconteceu! Por favor,\Nvenha para o outro mundo imediatamente.
+Dialogue: 0,0:06:50.28,0:06:55.95,fonte legenda,,0000,0000,0000,,É fácil para você pedir! Estou em\Numa situação um pouco difícil nesse momento!
+Dialogue: 0,0:06:55.95,0:06:57.55,fonte legenda,,0000,0000,0000,,Se eu não responder certo,
+Dialogue: 0,0:06:57.55,0:07:01.29,fonte legenda,,0000,0000,0000,,Chichi não vai me alimentar\Npor um bom tempo, afinal de contas...
+Dialogue: 0,0:07:01.29,0:07:04.29,fonte legenda,,0000,0000,0000,,Se é comida que você quer,\Neu te alimento o quanto você quiser!
+Dialogue: 0,0:07:04.29,0:07:08.96,fonte legenda,,0000,0000,0000,,A Terra pode até acabar sendo destruída!\NPor favor, venha rápido!
+Dialogue: 0,0:07:08.96,0:07:10.56,fonte legenda,,0000,0000,0000,,Oh, isso é terrível!
+Dialogue: 0,0:07:10.56,0:07:14.23,fonte legenda,,0000,0000,0000,,Então,\Neu com certeza quero que ele estude aqui!
+Dialogue: 0,0:07:14.23,0:07:16.90,fonte legenda,,0000,0000,0000,,Se me permite, quais são os hobbies do pai?
+Dialogue: 0,0:07:16.90,0:07:18.57,fonte legenda,,0000,0000,0000,,Goku-san!
+Dialogue: 0,0:07:18.57,0:07:21.91,fonte legenda,,0000,0000,0000,,Ah, meus hobbies são, hum... leitura e...
+Dialogue: 0,0:07:21.91,0:07:24.91,fonte legenda,,0000,0000,0000,,É isso, é isso!
+Dialogue: 0,0:07:24.91,0:07:26.25,fonte legenda,,0000,0000,0000,,Goku-san?
+Dialogue: 0,0:07:26.25,0:07:30.58,fonte legenda,,0000,0000,0000,,Chichi, desculpe, mas\Nalgo aconteceu recentemente.
+Dialogue: 0,0:07:30.58,0:07:32.71,fonte legenda,,0000,0000,0000,,Kaioh-sama... Kaioh-sama... Kaioh-sama...
+Dialogue: 0,0:07:37.93,0:07:42.60,fonte legenda,,0000,0000,0000,,Senhora, seu marido é\Nmágico ou algo do gênero?
+Dialogue: 0,0:07:42.60,0:07:45.59,fonte legenda,,0000,0000,0000,,Leitura e esportes são seus hobbies!
+Dialogue: 0,0:08:07.62,0:08:12.46,fonte legenda,,0000,0000,0000,,Hey, Goku, você foi rápido!\NPor que está usando essa roupa?
+Dialogue: 0,0:08:13.96,0:08:16.29,fonte legenda,,0000,0000,0000,,Bem, sabe...
+Dialogue: 0,0:08:18.30,0:08:20.30,fonte legenda,,0000,0000,0000,,Ooh, que alívio!
+Dialogue: 0,0:08:20.30,0:08:23.64,fonte legenda,,0000,0000,0000,,Essas roupas realmente são melhores pra mim.
+Dialogue: 0,0:08:23.64,0:08:25.31,fonte legenda,,0000,0000,0000,,Indo direto ao ponto, Goku...
+Dialogue: 0,0:08:25.31,0:08:28.37,fonte legenda,,0000,0000,0000,,Kaio-sama, estou faminto!
+Dialogue: 0,0:08:30.31,0:08:36.65,fonte legenda,,0000,0000,0000,,Nós viemos implorar\Npara que seja o rei do Novo Planeta Vegeta.
+Dialogue: 0,0:08:36.65,0:08:39.65,fonte legenda,,0000,0000,0000,,O quê? Novo Planeta Vegeta?!
+Dialogue: 0,0:08:39.65,0:08:42.32,fonte legenda,,0000,0000,0000,,Por que não\Nmostramos ao universo a supremacia
+Dialogue: 0,0:08:42.32,0:08:48.00,fonte legenda,,0000,0000,0000,,da mais poderosa raça\Nguerreira, os Saiya-jins, novamente?
+Dialogue: 0,0:08:48.00,0:08:53.63,fonte legenda,,0000,0000,0000,,Com seu comando, vamos formar o\Nimpério mais poderoso do universo!
+Dialogue: 0,0:09:00.34,0:09:07.64,fonte legenda,,0000,0000,0000,,Você é o único que pode derrotar\No Lendário Super Saiya-jin, Rei Vegeta!
+Dialogue: 0,0:09:18.96,0:09:22.30,fonte legenda,,0000,0000,0000,,Lendário Super Saiya-jin?
+Dialogue: 0,0:09:22.30,0:09:24.97,fonte legenda,,0000,0000,0000,,Ele está destruindo uma grande área
+Dialogue: 0,0:09:24.97,0:09:27.30,fonte legenda,,0000,0000,0000,,da Galáxia do sul com o seu poder assombroso.
+Dialogue: 0,0:09:27.30,0:09:30.30,fonte legenda,,0000,0000,0000,,Assim, mesmo o Novo Planeta\NVegeta, que suamos muito para construir
+Dialogue: 0,0:09:30.30,0:09:36.64,fonte legenda,,0000,0000,0000,,cairá perante o Lendário Super Saiya-jin...
+Dialogue: 0,0:09:36.64,0:09:40.98,fonte legenda,,0000,0000,0000,,Pai! Você não deve acreditar nessa história!
+Dialogue: 0,0:09:40.98,0:09:42.98,fonte legenda,,0000,0000,0000,,Paragas, vamos!
+Dialogue: 0,0:09:42.98,0:09:44.71,fonte legenda,,0000,0000,0000,,Pai!
+Dialogue: 0,0:09:46.99,0:09:48.61,fonte legenda,,0000,0000,0000,,Pai!
+Dialogue: 0,0:09:49.96,0:09:55.59,fonte legenda,,0000,0000,0000,,Seja nosso convidado também, Príncipe\NTrunks, do sangue real do Rei Vegeta.
+Dialogue: 0,0:10:02.07,0:10:04.67,fonte legenda,,0000,0000,0000,,Vegeta! Eu vou também!
+Dialogue: 0,0:10:04.67,0:10:07.34,fonte legenda,,0000,0000,0000,,Por favor não diga coisas\Ntão absurdas enquanto está bêbado!
+Dialogue: 0,0:10:07.34,0:10:09.34,fonte legenda,,0000,0000,0000,,Francamente, seu bêbado exagerado!
+Dialogue: 0,0:10:09.34,0:10:12.68,fonte legenda,,0000,0000,0000,,Deixem-me ir também!
+Dialogue: 0,0:10:12.68,0:10:15.68,fonte legenda,,0000,0000,0000,,Vegeta! Vegeta!
+Dialogue: 0,0:10:15.68,0:10:19.69,fonte legenda,,0000,0000,0000,,Que história é essa de Novo Planeta Vegeta?\NÉ apenas bobagem, não é?
+Dialogue: 0,0:10:19.69,0:10:23.25,fonte legenda,,0000,0000,0000,,Mãe, eu vou trazer o papai de volta.
+Dialogue: 0,0:10:30.03,0:10:31.66,fonte legenda,,0000,0000,0000,,Trunks!
+Dialogue: 0,0:10:50.05,0:10:53.39,fonte legenda,,0000,0000,0000,,A Galáxia do Sul\Nfoi atacada por um Super Saiya-jin?
+Dialogue: 0,0:10:53.39,0:10:57.66,fonte legenda,,0000,0000,0000,,Hmm. Ele está quase\Nacabando de destruir a Galáxia do Sul,
+Dialogue: 0,0:10:57.66,0:11:01.40,fonte legenda,,0000,0000,0000,,e parece que virá para\Na Galáxia do Norte em seguida.
+Dialogue: 0,0:11:01.40,0:11:03.00,fonte legenda,,0000,0000,0000,,Oh, mesmo?
+Dialogue: 0,0:11:03.00,0:11:07.67,fonte legenda,,0000,0000,0000,,Goku, é possível que o\Npoder dele seja ainda maior que o de vocês.
+Dialogue: 0,0:11:07.67,0:11:11.00,fonte legenda,,0000,0000,0000,,Wow! Ele é tão forte assim?!
+Dialogue: 0,0:11:11.00,0:11:16.17,fonte legenda,,0000,0000,0000,,Isso não é hora de ficar exaltado!\NQuero que você investigue isso.
+Dialogue: 0,0:11:21.01,0:11:23.02,fonte legenda,,0000,0000,0000,,Onde eu posso encontrá-lo?
+Dialogue: 0,0:11:23.02,0:11:24.35,fonte legenda,,0000,0000,0000,,Eu não sei.
+Dialogue: 0,0:11:24.35,0:11:27.02,fonte legenda,,0000,0000,0000,,Kaioh-sama, você não sabe tudo?
+Dialogue: 0,0:11:27.02,0:11:29.36,fonte legenda,,0000,0000,0000,,Claro que sei.
+Dialogue: 0,0:11:29.36,0:11:31.96,fonte legenda,,0000,0000,0000,,Primeiro, vá checar a Galáxia do Sul.
+Dialogue: 0,0:11:31.96,0:11:34.03,fonte legenda,,0000,0000,0000,,Seu teletransporte\Nvai te levar para lá num instante.
+Dialogue: 0,0:11:34.03,0:11:38.09,fonte legenda,,0000,0000,0000,,Certo, tenho que\Nprocurar por um Ki de Saiya-jin, né?
+Dialogue: 0,0:11:49.04,0:11:52.91,fonte legenda,,0000,0000,0000,,Kaioh-sama,\Nem qual lado está a Galáxia do Sul mesmo?
+Dialogue: 0,0:11:56.05,0:11:57.72,fonte legenda,,0000,0000,0000,,Naquele.
+Dialogue: 0,0:11:57.72,0:12:00.55,fonte legenda,,0000,0000,0000,,A Galáxia do Sul é daquele lado, então?
+Dialogue: 0,0:12:09.33,0:12:15.07,fonte legenda,,0000,0000,0000,,Lá está. Está fraco, mas é\Ndefinitivamente um Ki de Saiya-jin.
+Dialogue: 0,0:12:15.07,0:12:17.83,fonte legenda,,0000,0000,0000,,Eu estarei de volta logo.
+Dialogue: 0,0:12:20.01,0:12:22.41,fonte legenda,,0000,0000,0000,,Goku, conto com você!
+Dialogue: 0,0:12:34.69,0:12:40.03,fonte legenda,,0000,0000,0000,,Ele não está aqui, mas\Npara ter deixado um Ki desses para trás...
+Dialogue: 0,0:12:40.03,0:12:43.70,fonte legenda,,0000,0000,0000,,Esse é o Ki que senti.
+Dialogue: 0,0:12:43.70,0:12:48.96,fonte legenda,,0000,0000,0000,,Pode ser que o Kaioh-sama esteja certo,\Nseus poderes são maiores que os nossos!
+Dialogue: 0,0:13:04.99,0:13:09.99,fonte legenda,,0000,0000,0000,,Já faz 30 anos desde que\No Planeta Vegeta foi destruído por Freeza.
+Dialogue: 0,0:13:09.99,0:13:16.00,fonte legenda,,0000,0000,0000,,E meu maior desejo tem sido\Nreconstruir um Novo Planeta Vegeta.
+Dialogue: 0,0:13:16.00,0:13:20.20,fonte legenda,,0000,0000,0000,,Eu acreditava que era o\Núnico jeito de retribuir seu ilustre pai,
+Dialogue: 0,0:13:20.20,0:13:25.67,fonte legenda,,0000,0000,0000,,Rei Vegeta,\Nque perdemos de forma tão lamentável.
+Dialogue: 0,0:13:25.67,0:13:31.44,fonte legenda,,0000,0000,0000,,Agora que você se juntou a nós,\Nmeus maiores desejos foram realizados.
+Dialogue: 0,0:13:35.35,0:13:39.41,fonte legenda,,0000,0000,0000,,Hey, Oolong, não consegue me segurar?
+Dialogue: 0,0:13:41.02,0:13:44.02,fonte legenda,,0000,0000,0000,,Aw, eu ainda estou enjoado da viagem!
+Dialogue: 0,0:13:44.02,0:13:46.09,fonte legenda,,0000,0000,0000,,Foi você quem decidiu subir nessa coisa!
+Dialogue: 0,0:13:46.09,0:13:48.62,fonte legenda,,0000,0000,0000,,Mas que velho chato!
+Dialogue: 0,0:14:02.64,0:14:04.64,fonte legenda,,0000,0000,0000,,Rei Vegeta, Banzai!!
+Dialogue: 0,0:14:04.64,0:14:07.31,fonte legenda,,0000,0000,0000,,Rei Vegeta, esses homens se reuniram aqui
+Dialogue: 0,0:14:07.31,0:14:09.32,fonte legenda,,0000,0000,0000,,vindos de partes distantes da galáxia,
+Dialogue: 0,0:14:09.32,0:14:13.18,fonte legenda,,0000,0000,0000,,e têm esperado aqui para serem seus servos.
+Dialogue: 0,0:14:16.99,0:14:20.33,fonte legenda,,0000,0000,0000,,Meu filho. Ele está às suas ordens.
+Dialogue: 0,0:14:20.33,0:14:22.66,fonte legenda,,0000,0000,0000,,Eu sou Brolly.
+Dialogue: 0,0:14:22.66,0:14:25.33,fonte legenda,,0000,0000,0000,,Você parece ser um Saiya-jin, também.
+Dialogue: 0,0:14:25.33,0:14:27.00,fonte legenda,,0000,0000,0000,,Sim.
+Dialogue: 0,0:14:27.00,0:14:30.00,fonte legenda,,0000,0000,0000,,Incrível, hein?
+Dialogue: 0,0:14:30.00,0:14:32.34,fonte legenda,,0000,0000,0000,,Ooh, que dor!
+Dialogue: 0,0:14:32.34,0:14:36.68,fonte legenda,,0000,0000,0000,,Estou tão tonto...\NAlguém me dê um remédio para dor de cabeça!
+Dialogue: 0,0:14:36.68,0:14:39.01,fonte legenda,,0000,0000,0000,,Aqui está.
+Dialogue: 0,0:14:39.01,0:14:42.95,fonte legenda,,0000,0000,0000,,Oh, esse remédio é forte!
+Dialogue: 0,0:14:45.02,0:14:49.02,fonte legenda,,0000,0000,0000,,Eu tenho notícias! \NO Super Saiya-jin apareceu no Planeta Totokama!
+Dialogue: 0,0:14:49.02,0:14:50.35,fonte legenda,,0000,0000,0000,,Como?!
+Dialogue: 0,0:14:52.03,0:14:57.03,fonte legenda,,0000,0000,0000,,Estou indo imediatamente para subjugar o\NLendário Super Saiya-jin! Brolly, venha.
+Dialogue: 0,0:14:57.03,0:15:00.20,fonte legenda,,0000,0000,0000,,Pai! É perigoso sair tão apressadamente!
+Dialogue: 0,0:15:00.20,0:15:02.30,fonte legenda,,0000,0000,0000,,Não é melhor esperarmos\Nmais informações chegarem?
+Dialogue: 0,0:15:02.30,0:15:06.17,fonte legenda,,0000,0000,0000,,Covardes não precisam vir!\NBrolly, apresse-se!
+Dialogue: 0,0:15:09.64,0:15:11.13,fonte legenda,,0000,0000,0000,,Pai!
+Dialogue: 0,0:15:21.66,0:15:26.33,fonte legenda,,0000,0000,0000,,Eles estão partindo de novo.\NAquele Vegeta não descansa, hein?
+Dialogue: 0,0:15:26.33,0:15:30.66,fonte legenda,,0000,0000,0000,,Oolong, aquele seu remédio para\Ndor de cabeça funcionou bem!
+Dialogue: 0,0:15:30.66,0:15:34.62,fonte legenda,,0000,0000,0000,,Mas agora minha cabeça\Nestá doendo por causa do remédio!
+Dialogue: 0,0:15:36.67,0:15:39.54,fonte legenda,,0000,0000,0000,,Imagino se esse Lendário\NSuper Saiya-jin realmente existe.
+Dialogue: 0,0:15:39.54,0:15:43.01,fonte legenda,,0000,0000,0000,,Você não acha que\Ntem algo de errado nessa história?
+Dialogue: 0,0:15:43.01,0:15:47.38,fonte legenda,,0000,0000,0000,,Tenho o mesmo pressentimento. Mas\Nmeu pai parece acreditar cegamente.
+Dialogue: 0,0:15:53.69,0:15:57.02,fonte legenda,,0000,0000,0000,,Por mais que você olhe,\Nnão se parece muito com um planeta, né?
+Dialogue: 0,0:15:57.02,0:16:01.36,fonte legenda,,0000,0000,0000,,As cidades que vimos do espaço\Neram as ruínas desses prédios, não eram?
+Dialogue: 0,0:16:01.36,0:16:03.30,fonte legenda,,0000,0000,0000,,Por que você acha que esse Paragas
+Dialogue: 0,0:16:03.30,0:16:06.97,fonte legenda,,0000,0000,0000,,decidiu criar uma nação\NSaiya-jin nesse tipo de planeta?
+Dialogue: 0,0:16:06.97,0:16:09.43,fonte legenda,,0000,0000,0000,,Hum, o que é aquilo lá?
+Dialogue: 0,0:16:13.64,0:16:17.31,fonte legenda,,0000,0000,0000,,Parece que eles\Nestão tirando energia da terra.
+Dialogue: 0,0:16:17.31,0:16:18.98,fonte legenda,,0000,0000,0000,,Para onde será que estão mandando ela?
+Dialogue: 0,0:16:18.98,0:16:23.14,fonte legenda,,0000,0000,0000,,Já sei, o palácio!\NÉ por isso que só lá tem plantas!
+Dialogue: 0,0:16:26.32,0:16:28.66,fonte legenda,,0000,0000,0000,,Vovô!
+Dialogue: 0,0:16:28.66,0:16:30.45,fonte legenda,,0000,0000,0000,,Estou bem.
+Dialogue: 0,0:16:32.33,0:16:36.00,fonte legenda,,0000,0000,0000,,Não estamos vadiando!\NVovô apenas não está em boa forma!
+Dialogue: 0,0:16:36.00,0:16:41.00,fonte legenda,,0000,0000,0000,,Tudo bem, não estamos\Nespionando nem nada desse tipo!
+Dialogue: 0,0:16:41.00,0:16:45.00,fonte legenda,,0000,0000,0000,,Sabe, é inútil construir uma\Nnação num planeta desolado como esse.
+Dialogue: 0,0:16:45.00,0:16:46.57,fonte legenda,,0000,0000,0000,,E é da minha conta?
+Dialogue: 0,0:16:46.57,0:16:51.01,fonte legenda,,0000,0000,0000,,Fomos trazidos aqui depois que\No Super Saiya-jin devastou nosso planeta!
+Dialogue: 0,0:16:51.01,0:16:53.38,fonte legenda,,0000,0000,0000,,Eles mal nos dão comida.
+Dialogue: 0,0:16:53.38,0:16:55.85,fonte legenda,,0000,0000,0000,,Saiya-jins, eles são os demônios do universo!
+Dialogue: 0,0:17:00.02,0:17:02.29,fonte legenda,,0000,0000,0000,,Garoto, não se confunda!
+Dialogue: 0,0:17:02.29,0:17:03.28,fonte legenda,,0000,0000,0000,,Shamo!
+Dialogue: 0,0:17:05.96,0:17:08.96,fonte legenda,,0000,0000,0000,,Não foi culpa do Shamo! A culpa é minha!
+Dialogue: 0,0:17:08.96,0:17:11.30,fonte legenda,,0000,0000,0000,,Você está me desafiando?!
+Dialogue: 0,0:17:11.30,0:17:13.63,fonte legenda,,0000,0000,0000,,Pare!
+Dialogue: 0,0:17:13.63,0:17:15.69,fonte legenda,,0000,0000,0000,,Como pode fazer algo tão terrível?!
+Dialogue: 0,0:17:37.99,0:17:42.45,fonte legenda,,0000,0000,0000,,É melhor desistir!\NSomos muito fortes!
+Dialogue: 0,0:18:00.68,0:18:02.28,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:18:02.28,0:18:05.12,fonte legenda,,0000,0000,0000,,Goku-san!
+Dialogue: 0,0:18:05.12,0:18:08.12,fonte legenda,,0000,0000,0000,,G-Goku, o que está fazendo aqui?!
+Dialogue: 0,0:18:08.12,0:18:10.96,fonte legenda,,0000,0000,0000,,Não tenho certeza.\NEstava seguindo um Ki de Saiya-jin...
+Dialogue: 0,0:18:10.96,0:18:12.63,fonte legenda,,0000,0000,0000,,E por que vocês estão aqui?
+Dialogue: 0,0:18:12.63,0:18:17.96,fonte legenda,,0000,0000,0000,,Pediram para o Vegeta\Nderrotar o Lendário Super Saiya-jin.
+Dialogue: 0,0:18:17.96,0:18:20.97,fonte legenda,,0000,0000,0000,,Kaioh-sama pediu pro Vegeta também?
+Dialogue: 0,0:18:20.97,0:18:22.97,fonte legenda,,0000,0000,0000,,Que bom que você veio, Kakarotto.
+Dialogue: 0,0:18:22.97,0:18:25.63,fonte legenda,,0000,0000,0000,,Ou melhor, Son Goku.
+Dialogue: 0,0:18:27.97,0:18:31.31,fonte legenda,,0000,0000,0000,,Como você me conhece?\NVocê é um Saiya-jin, certo?
+Dialogue: 0,0:18:31.31,0:18:34.30,fonte legenda,,0000,0000,0000,,Você é filho de Bardock, não é?
+Dialogue: 0,0:18:36.32,0:18:39.99,fonte legenda,,0000,0000,0000,,Gostaria de jantar?
+Dialogue: 0,0:18:39.99,0:18:44.32,fonte legenda,,0000,0000,0000,,Agora que você falou, estou com fome!
+Dialogue: 0,0:18:45.09,0:18:47.49,fonte legenda,,0000,0000,0000,,Pois então, seja meu convidado...
+Dialogue: 0,0:18:53.33,0:18:59.01,fonte legenda,,0000,0000,0000,,Hum, não é o do Paragas.\NO Ki que senti não era do Paragas.
+Dialogue: 0,0:18:59.01,0:19:02.01,fonte legenda,,0000,0000,0000,,Hein? Goku, se você não vai comer, eu vou!
+Dialogue: 0,0:19:02.01,0:19:04.60,fonte legenda,,0000,0000,0000,,Nem pensar, estou faminto!
+Dialogue: 0,0:19:05.61,0:19:08.28,fonte legenda,,0000,0000,0000,,Quem atacou seu planeta, não foi Paragas?
+Dialogue: 0,0:19:08.28,0:19:09.84,fonte legenda,,0000,0000,0000,,Não!
+Dialogue: 0,0:19:13.95,0:19:16.96,fonte legenda,,0000,0000,0000,,Isso também, isso também!
+Dialogue: 0,0:19:16.96,0:19:20.96,fonte legenda,,0000,0000,0000,,Shamo, lhe trarei mais depois, ok?
+Dialogue: 0,0:19:20.96,0:19:23.30,fonte legenda,,0000,0000,0000,,Obrigado!
+Dialogue: 0,0:19:23.30,0:19:26.63,fonte legenda,,0000,0000,0000,,Não poderia ser Brolly,\Ncom seu poder de luta...
+Dialogue: 0,0:19:26.63,0:19:31.59,fonte legenda,,0000,0000,0000,,Será que é como o Paragas disse, será\Nque existe outro Lendário Super Saiya-jin?
+Dialogue: 0,0:19:34.97,0:19:43.44,fonte legenda,,0000,0000,0000,,Ótimo! Isso mesmo!\NVenha rápido, Cometa Gumori!
+Dialogue: 0,0:19:51.99,0:19:52.99,fonte legenda,,0000,0000,0000,,Não, não pode ser...
+Dialogue: 0,0:19:52.99,0:19:55.70,fonte legenda,,0000,0000,0000,,Moa, não se preocupe.
+Dialogue: 0,0:19:55.70,0:19:59.00,fonte legenda,,0000,0000,0000,,Você chegará sem\Nexperimentar o terror, apesar de tudo.
+Dialogue: 0,0:19:59.00,0:20:03.00,fonte legenda,,0000,0000,0000,,Sim. Depois de mudarmos para a Terra,\Ncontinuarei a lhe servir como puder.
+Dialogue: 0,0:20:03.00,0:20:05.40,fonte legenda,,0000,0000,0000,,Não entenda mal.
+Dialogue: 0,0:20:14.68,0:20:18.35,fonte legenda,,0000,0000,0000,,Droga!\NNão se parecia nada com um Super Saiya-jin!
+Dialogue: 0,0:20:18.35,0:20:21.72,fonte legenda,,0000,0000,0000,,Estou me esforçando ao máximo\Npara descobrir o paradeiro dele agora.
+Dialogue: 0,0:20:21.72,0:20:23.31,fonte legenda,,0000,0000,0000,,Só demorará um pouco mais.
+Dialogue: 0,0:20:27.03,0:20:29.02,fonte legenda,,0000,0000,0000,,Oi, Vegeta!
+Dialogue: 0,0:20:30.03,0:20:32.70,fonte legenda,,0000,0000,0000,,Kakarotto,\Nvocê veio até aqui só para eu te matar?
+Dialogue: 0,0:20:32.70,0:20:37.70,fonte legenda,,0000,0000,0000,,Vegeta, parece que você não\Nencontrou o Lendário Super Saiya-jin, hein?
+Dialogue: 0,0:20:37.70,0:20:44.37,fonte legenda,,0000,0000,0000,,Assim que eu achar o Lendário Super Saiya-jin, \Nvou massacrá-lo! Não interfira.
+Dialogue: 0,0:20:49.38,0:20:53.44,fonte legenda,,0000,0000,0000,,Esse Vegeta... continua com a cara emburrada.
+Dialogue: 0,0:21:07.33,0:21:10.39,fonte legenda,,0000,0000,0000,,Tenha calma, Brolly.
+Dialogue: 0,0:21:22.68,0:21:24.02,fonte legenda,,0000,0000,0000,,Whoa, ow ow ow!
+Dialogue: 0,0:21:24.02,0:21:26.02,fonte legenda,,0000,0000,0000,,Calma! Ah, aí estão vocês! Aí estão!
+Dialogue: 0,0:21:26.02,0:21:33.03,fonte legenda,,0000,0000,0000,,Paragas-san, estamos\Ncansados desse mundo, vamos para casa.
+Dialogue: 0,0:21:33.03,0:21:38.70,fonte legenda,,0000,0000,0000,,Por favor,\Nprepare uma nave para nós voltarmos.
+Dialogue: 0,0:21:38.70,0:21:40.33,fonte legenda,,0000,0000,0000,,Velho!
+Dialogue: 0,0:21:49.04,0:21:53.91,fonte legenda,,0000,0000,0000,,Não sei onde você estava com a cabeça\Npara fazer um império em um mundo como esse!
+Dialogue: 0,0:22:00.05,0:22:04.85,fonte legenda,,0000,0000,0000,,Já chega. Por favor, abaixe\No seu Ki e remova o dispositivo.
+Dialogue: 0,0:22:08.66,0:22:11.60,fonte legenda,,0000,0000,0000,,Paragas-sama, por favor fique calmo!
+Dialogue: 0,0:22:11.60,0:22:14.23,fonte legenda,,0000,0000,0000,,De acordo com os dados do computador,
+Dialogue: 0,0:22:14.23,0:22:16.34,fonte legenda,,0000,0000,0000,,o controle remoto não está danificado.
+Dialogue: 0,0:22:16.34,0:22:24.68,fonte legenda,,0000,0000,0000,,Pela sua vontade, você pode tanto\Nconter quanto liberar o poder de Brolly.
+Dialogue: 0,0:22:24.68,0:22:27.34,fonte legenda,,0000,0000,0000,,Oh, não diga que...
+Dialogue: 0,0:22:28.68,0:22:31.84,fonte legenda,,0000,0000,0000,,O controle remoto\Nestá funcionando perfeitamente.
+Dialogue: 0,0:22:39.03,0:22:43.70,fonte legenda,,0000,0000,0000,,Brolly, qual o problema com você?
+Dialogue: 0,0:22:43.70,0:22:47.37,fonte legenda,,0000,0000,0000,,Poderia ser o Kakarotto...?
+Dialogue: 0,0:22:47.37,0:22:49.37,fonte legenda,,0000,0000,0000,,Isso significa que os\Ninstintos Saiya-jins de Brolly
+Dialogue: 0,0:22:49.37,0:22:51.37,fonte legenda,,0000,0000,0000,,foram acordados pelo poder de Kakarotto,
+Dialogue: 0,0:22:51.37,0:22:55.98,fonte legenda,,0000,0000,0000,,e ele está começando a\Nsuperar os limites do meu controle?
+Dialogue: 0,0:22:55.98,0:22:59.93,fonte legenda,,0000,0000,0000,,Se for assim, todos os problemas\Nque eu estive evitando...
+Dialogue: 0,0:23:09.66,0:23:10.52,fonte legenda,,0000,0000,0000,,Pare!
+Dialogue: 0,0:23:25.00,0:23:26.67,fonte legenda,,0000,0000,0000,,Pare com isso, Brolly!
+Dialogue: 0,0:23:31.18,0:23:34.68,fonte legenda,,0000,0000,0000,,Brolly era um exemplo de Saiya-jin.\NÀ medida que ele começou a se desenvolver,
+Dialogue: 0,0:23:34.68,0:23:37.22,fonte legenda,,0000,0000,0000,,o poder de luta\Nextraordinário que nasceu com ele...
+Dialogue: 0,0:23:37.22,0:23:42.36,fonte legenda,,0000,0000,0000,,aumentou e o tornou selvagem. E eu, seu pai,
+Dialogue: 0,0:23:42.36,0:23:45.02,fonte legenda,,0000,0000,0000,,comecei a temê-lo.
+Dialogue: 0,0:23:45.02,0:23:51.52,fonte legenda,,0000,0000,0000,,Pedi aos cientistas para criarem um\Ndispositivo para que eu pudesse controlá-lo.
+Dialogue: 0,0:23:57.37,0:24:00.03,fonte legenda,,0000,0000,0000,,Pai, o que é isso?
+Dialogue: 0,0:24:01.71,0:24:02.61,fonte legenda,,0000,0000,0000,,Brolly!
+Dialogue: 0,0:24:34.17,0:24:39.75,fonte legenda,,0000,0000,0000,,No final, podendo\Nmanipular o poder de Brolly à vontade,
+Dialogue: 0,0:24:39.75,0:24:44.15,fonte legenda,,0000,0000,0000,,Eu obtive\No poder de controlar todo o universo!
+Dialogue: 0,0:24:51.02,0:24:55.06,fonte legenda,,0000,0000,0000,,Presumindo que esse controle esteja\Nfuncionando corretamente,
+Dialogue: 0,0:24:55.06,0:24:58.70,fonte legenda,,0000,0000,0000,,deve ter sido seu encontro com Kakarotto...
+Dialogue: 0,0:24:58.70,0:25:03.30,fonte legenda,,0000,0000,0000,,Brolly e Kakarotto nasceram\Nno mesmo dia, um depois do outro.
+Dialogue: 0,0:25:03.30,0:25:05.63,fonte legenda,,0000,0000,0000,,Se é o Kakarotto...
+Dialogue: 0,0:25:08.98,0:25:11.91,fonte legenda,,0000,0000,0000,,Estou surpreso com o filho de Paragas.
+Dialogue: 0,0:25:11.91,0:25:14.65,fonte legenda,,0000,0000,0000,,Ele recém nasceu,\Ne seu poder de luta já é de 10.000.
+Dialogue: 0,0:25:14.65,0:25:20.32,fonte legenda,,0000,0000,0000,,O filho de Bardock, que só tem 2 de poder\Nde luta, fez o filho de Paragas chorar!
+Dialogue: 0,0:25:20.32,0:25:23.59,fonte legenda,,0000,0000,0000,,Seu poder de luta pode ser pequeno,
+Dialogue: 0,0:25:23.59,0:25:26.82,fonte legenda,,0000,0000,0000,,mas essa criança, cujo\Nnome é Kakarotto, tem muita energia!
+Dialogue: 0,0:25:34.67,0:25:39.34,fonte legenda,,0000,0000,0000,,Droga! As correntes\Ndo destino se entrelaçaram novamente, hein?
+Dialogue: 0,0:25:39.34,0:25:45.34,fonte legenda,,0000,0000,0000,,Os dois bebês, nascidos no mesmo\Ndia e colocados em berços adjacentes...
+Dialogue: 0,0:25:45.34,0:25:51.01,fonte legenda,,0000,0000,0000,,Não importa como, tenho que controlar\No Brolly, ou ele destruirá o universo!
+Dialogue: 0,0:25:59.36,0:26:02.02,fonte legenda,,0000,0000,0000,,Kakarott-o!!
+Dialogue: 0,0:26:11.97,0:26:16.64,fonte legenda,,0000,0000,0000,,As garotas peitudas tem uma pele tão macia.
+Dialogue: 0,0:26:33.66,0:26:34.99,fonte legenda,,0000,0000,0000,,Papai...
+Dialogue: 0,0:26:38.00,0:26:39.49,fonte legenda,,0000,0000,0000,,Você é o Brolly!
+Dialogue: 0,0:26:42.34,0:26:44.03,fonte legenda,,0000,0000,0000,,Vamos, pare de enrolar!
+Dialogue: 0,0:26:46.01,0:26:48.10,fonte legenda,,0000,0000,0000,,Oh, droga!
+Dialogue: 0,0:26:55.85,0:26:57.51,fonte legenda,,0000,0000,0000,,Pare!
+Dialogue: 0,0:27:04.96,0:27:06.75,fonte legenda,,0000,0000,0000,,...tão linda!
+Dialogue: 0,0:27:29.32,0:27:33.15,fonte legenda,,0000,0000,0000,,Então seu poder de luta aumenta\Nde repente, como o nosso, hein?
+Dialogue: 0,0:27:37.99,0:27:40.08,fonte legenda,,0000,0000,0000,,Kakarotto!
+Dialogue: 0,0:27:51.67,0:27:55.80,fonte legenda,,0000,0000,0000,,Aw, isso é sujo! Você é nojento!
+Dialogue: 0,0:28:19.63,0:28:22.53,fonte legenda,,0000,0000,0000,,O que eu senti... é esse Ki!
+Dialogue: 0,0:28:36.32,0:28:38.65,fonte legenda,,0000,0000,0000,,Pare, Brolly!
+Dialogue: 0,0:28:43.66,0:28:47.96,fonte legenda,,0000,0000,0000,,Foi você que destruiu a\NGaláxia do Sul, não foi Brolly?
+Dialogue: 0,0:28:52.33,0:28:55.00,fonte legenda,,0000,0000,0000,,Pare, Brolly! Pare!
+Dialogue: 0,0:28:55.00,0:28:57.00,fonte legenda,,0000,0000,0000,,Pare!!
+Dialogue: 0,0:28:57.00,0:29:02.63,fonte legenda,,0000,0000,0000,,Se isso continuar, ninguém\Nconseguirá parar Brolly!
+Dialogue: 0,0:29:17.96,0:29:19.79,fonte legenda,,0000,0000,0000,,Como?
+Dialogue: 0,0:29:19.79,0:29:23.23,fonte legenda,,0000,0000,0000,,Brolly, vamos voltar para o palácio.
+Dialogue: 0,0:29:27.63,0:29:31.40,fonte legenda,,0000,0000,0000,,Ele é o Super Saiya-jin que\Nfez aquilo com a Galáxia do Sul!
+Dialogue: 0,0:30:07.34,0:30:10.17,fonte legenda,,0000,0000,0000,,Rei Vegeta, por favor, espere!
+Dialogue: 0,0:30:13.01,0:30:17.18,fonte legenda,,0000,0000,0000,,Rei Vegeta, por favor, espere,\Npor favor espere até amanhã!
+Dialogue: 0,0:30:23.02,0:30:26.13,fonte legenda,,0000,0000,0000,,Não importa como, tenho que\Nmanter Vegeta por aqui hoje,
+Dialogue: 0,0:30:26.13,0:30:31.03,fonte legenda,,0000,0000,0000,,até a colisão do Cometa Gumori!
+Dialogue: 0,0:30:31.03,0:30:37.49,fonte legenda,,0000,0000,0000,,Amanhã, nós deveremos saber em qual\Nplaneta o Lendário Super Saiya-jin está!
+Dialogue: 0,0:30:40.71,0:30:42.44,fonte legenda,,0000,0000,0000,,Brolly!
+Dialogue: 0,0:30:47.05,0:30:49.72,fonte legenda,,0000,0000,0000,,Kakarott-o!
+Dialogue: 0,0:30:49.72,0:30:52.89,fonte legenda,,0000,0000,0000,,Vegeta, estamos cansados de esperar você!
+Dialogue: 0,0:30:52.89,0:30:58.06,fonte legenda,,0000,0000,0000,,Estamos esperando\Naqui sem ao menos um café da manhã!
+Dialogue: 0,0:30:58.06,0:31:01.73,fonte legenda,,0000,0000,0000,,Oh, estou com tanta fome!
+Dialogue: 0,0:31:01.73,0:31:04.39,fonte legenda,,0000,0000,0000,,Ohh, ecoa legal!
+Dialogue: 0,0:31:15.67,0:31:19.01,fonte legenda,,0000,0000,0000,,Vegeta, não há razão para sair.
+Dialogue: 0,0:31:19.01,0:31:22.68,fonte legenda,,0000,0000,0000,,O Lendário Super Saiya-jin está bem aqui.
+Dialogue: 0,0:31:22.68,0:31:26.35,fonte legenda,,0000,0000,0000,,Kakarotto, pensei ter dito\Npara você não interferir!
+Dialogue: 0,0:31:26.35,0:31:32.02,fonte legenda,,0000,0000,0000,,Paragas, vá em frente e conte\Na Vegeta que Brolly é o Super Saiya-jin.
+Dialogue: 0,0:31:32.02,0:31:39.70,fonte legenda,,0000,0000,0000,,Isso é absurdo. Rei Vegeta,\Nnão há como isso ser possível.
+Dialogue: 0,0:31:39.70,0:31:45.04,fonte legenda,,0000,0000,0000,,Como poderia Brolly, com seu poder\Nmenor que o meu, ser um Super Saiya-jin?
+Dialogue: 0,0:31:45.04,0:31:48.37,fonte legenda,,0000,0000,0000,,Rei Vegeta,\Npor favor, volte comigo para o palácio.
+Dialogue: 0,0:31:48.37,0:31:50.84,fonte legenda,,0000,0000,0000,,Pai!!
+Dialogue: 0,0:31:51.71,0:31:53.37,fonte legenda,,0000,0000,0000,,Estão te enganando!
+Dialogue: 0,0:31:55.05,0:31:58.65,fonte legenda,,0000,0000,0000,,Pai, te tornarem um rei e\Nestabelecerem um Novo Planeta Vegeta,
+Dialogue: 0,0:31:58.65,0:32:00.72,fonte legenda,,0000,0000,0000,,é tudo mentira!
+Dialogue: 0,0:32:00.72,0:32:03.32,fonte legenda,,0000,0000,0000,,O que tem além daqui são ruínas!
+Dialogue: 0,0:32:03.32,0:32:08.49,fonte legenda,,0000,0000,0000,,Paragas construiu isso tudo usando\Nessas pessoas para parecer uma cidade,
+Dialogue: 0,0:32:08.49,0:32:09.98,fonte legenda,,0000,0000,0000,,para enganá-lo, pai!
+Dialogue: 0,0:32:33.02,0:32:37.36,fonte legenda,,0000,0000,0000,,É... é ele! Ele que devastou nosso mundo!
+Dialogue: 0,0:32:37.36,0:32:38.36,fonte legenda,,0000,0000,0000,,Você me enganou!
+Dialogue: 0,0:32:38.36,0:32:43.03,fonte legenda,,0000,0000,0000,,Vendo o modo como você está,\Nparece que finalmente entendeu.
+Dialogue: 0,0:32:43.03,0:32:46.60,fonte legenda,,0000,0000,0000,,Tudo é exatamente como seu filho falou.
+Dialogue: 0,0:32:46.60,0:32:49.97,fonte legenda,,0000,0000,0000,,Não tenho nenhuma\Nligação com esse planeta sem valor.
+Dialogue: 0,0:32:51.37,0:32:53.54,fonte legenda,,0000,0000,0000,,A única razão pela qual usei esse planeta
+Dialogue: 0,0:32:53.54,0:32:57.38,fonte legenda,,0000,0000,0000,,foi porque eu\Nsabia que um cometa iria colidir com ele.
+Dialogue: 0,0:32:57.38,0:33:01.71,fonte legenda,,0000,0000,0000,,O que realmente quero é a Terra,\Nna Galáxia do Norte, entende?
+Dialogue: 0,0:33:04.32,0:33:06.42,fonte legenda,,0000,0000,0000,,Meu plano inicial era me mudar para a Terra,
+Dialogue: 0,0:33:06.42,0:33:09.32,fonte legenda,,0000,0000,0000,,que tem o melhor\Nmeio ambiente, além de ser bonita,
+Dialogue: 0,0:33:09.32,0:33:15.66,fonte legenda,,0000,0000,0000,,e usá-la como base de\Nonde eu estabeleceria meu império!
+Dialogue: 0,0:33:15.66,0:33:21.67,fonte legenda,,0000,0000,0000,,Assim, a Terra não poderia\Nse tornar o local da batalha.
+Dialogue: 0,0:33:21.67,0:33:24.00,fonte legenda,,0000,0000,0000,,Para que eu pudesse adquiri-la sem danos,
+Dialogue: 0,0:33:24.00,0:33:29.34,fonte legenda,,0000,0000,0000,,Eu até construí\Neste palácio e os trouxe aqui.
+Dialogue: 0,0:33:29.34,0:33:31.74,fonte legenda,,0000,0000,0000,,Ser o rei do Planeta Vegeta,
+Dialogue: 0,0:33:31.74,0:33:35.37,fonte legenda,,0000,0000,0000,,foi uma piada ver que você acreditou nisso!
+Dialogue: 0,0:33:36.68,0:33:41.02,fonte legenda,,0000,0000,0000,,Quando eu tiver te enterrado aqui,\Njunto com o Novo Planeta Vegeta,
+Dialogue: 0,0:33:41.02,0:33:44.29,fonte legenda,,0000,0000,0000,,não iria sobrar nenhum inimigo.
+Dialogue: 0,0:33:44.29,0:33:49.66,fonte legenda,,0000,0000,0000,,A Galáxia do Norte, e, é claro,\Nas Galáxias do Leste e do Oeste,
+Dialogue: 0,0:33:49.66,0:33:52.30,fonte legenda,,0000,0000,0000,,seriam unificadas pelas minhas regras,
+Dialogue: 0,0:33:52.30,0:33:55.70,fonte legenda,,0000,0000,0000,,e um império pertencente\Na mim e Brolly iria durar eternamente!
+Dialogue: 0,0:34:06.31,0:34:08.31,fonte legenda,,0000,0000,0000,,Kakarotto...
+Dialogue: 0,0:34:08.31,0:34:09.78,fonte legenda,,0000,0000,0000,,Brolly!
+Dialogue: 0,0:34:16.32,0:34:19.19,fonte legenda,,0000,0000,0000,,Kakarotto!
+Dialogue: 0,0:34:24.00,0:34:27.30,fonte legenda,,0000,0000,0000,,O Lendário Super Saiya-jin!
+Dialogue: 0,0:34:31.00,0:34:33.67,fonte legenda,,0000,0000,0000,,Kakarotto!
+Dialogue: 0,0:34:35.01,0:34:37.70,fonte legenda,,0000,0000,0000,,Ele apenas piscou com o ataque do Vegeta!
+Dialogue: 0,0:34:39.01,0:34:43.64,fonte legenda,,0000,0000,0000,,Eu não sou Kakarotto! Eu sou Son Goku!
+Dialogue: 0,0:34:46.02,0:34:49.35,fonte legenda,,0000,0000,0000,,Excelente! Não há mais razão\Npara esperar por esse cometa!!
+Dialogue: 0,0:34:49.35,0:34:53.88,fonte legenda,,0000,0000,0000,,Use o poder que você tem agora e\Nelimine esses Saiya-jins desse mundo!
+Dialogue: 0,0:35:00.37,0:35:01.80,fonte legenda,,0000,0000,0000,,Epa!
+Dialogue: 0,0:35:58.36,0:36:02.96,fonte legenda,,0000,0000,0000,,Não! Pare, Brolly! Não\Naumente ainda mais o seu Ki!
+Dialogue: 0,0:36:02.96,0:36:05.93,fonte legenda,,0000,0000,0000,,Pare, Brolly! Fique calmo!
+Dialogue: 0,0:37:24.64,0:37:27.67,fonte legenda,,0000,0000,0000,,O Lendário Super Saiya-jin!
+Dialogue: 0,0:37:28.98,0:37:34.61,fonte legenda,,0000,0000,0000,,Kakarotto, você será o primeiro sacrifício!
+Dialogue: 0,0:37:35.65,0:37:36.88,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:37:41.99,0:37:43.39,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:37:51.67,0:37:54.97,fonte legenda,,0000,0000,0000,,O Lendário Super Saiya-jin!
+Dialogue: 0,0:38:05.62,0:38:13.99,fonte legenda,,0000,0000,0000,,Seremos mortos! Seremos mortos!\NEle é o Lendário Super Saiya-jin!
+Dialogue: 0,0:38:14.96,0:38:19.36,fonte legenda,,0000,0000,0000,,Hmph. Como um puro Saiya-jin, Vegeta,
+Dialogue: 0,0:38:19.36,0:38:21.80,fonte legenda,,0000,0000,0000,,você parece ser o único\Nque entendeu instintivamente
+Dialogue: 0,0:38:21.80,0:38:24.64,fonte legenda,,0000,0000,0000,,o poder e a barbaridade de Brolly.
+Dialogue: 0,0:38:24.64,0:38:26.97,fonte legenda,,0000,0000,0000,,Entretanto, já é muito tarde.
+Dialogue: 0,0:38:26.97,0:38:32.98,fonte legenda,,0000,0000,0000,,Agora que Brolly saiu do meu controle,\Ne se tornou o Saiya-jin Lendário,
+Dialogue: 0,0:38:32.98,0:38:39.65,fonte legenda,,0000,0000,0000,,meus planos de governar todo o universo\Njunto com Brolly... tudo chegou a um fim.
+Dialogue: 0,0:38:39.65,0:38:41.15,fonte legenda,,0000,0000,0000,,Sem falar na Terra,
+Dialogue: 0,0:38:41.15,0:38:45.68,fonte legenda,,0000,0000,0000,,Brolly não ficará satisfeito enquanto\Nnão tiver destruído o universo inteiro.
+Dialogue: 0,0:38:52.66,0:38:55.50,fonte legenda,,0000,0000,0000,,Você não faz idéia do quanto eu e meu filho
+Dialogue: 0,0:38:55.50,0:38:59.84,fonte legenda,,0000,0000,0000,,odiávamos o seu pai, o Rei Vegeta.
+Dialogue: 0,0:38:59.84,0:39:05.21,fonte legenda,,0000,0000,0000,,Quando ele soube do incrível poder\Nde luta de Brolly, seu pai, o Rei Vegeta...
+Dialogue: 0,0:39:07.61,0:39:12.64,fonte legenda,,0000,0000,0000,,Eliminem o filho de Paragas\Ndesse mundo de uma vez!
+Dialogue: 0,0:39:15.95,0:39:18.62,fonte legenda,,0000,0000,0000,,Paragas, algum problema?
+Dialogue: 0,0:39:18.62,0:39:21.69,fonte legenda,,0000,0000,0000,,Brolly certamente se tornará\Num excelente guerreiro quando crescer...
+Dialogue: 0,0:39:21.69,0:39:25.96,fonte legenda,,0000,0000,0000,,e estará a serviço do Planeta Vegeta \Ne do Príncipe Vegeta!
+Dialogue: 0,0:39:25.96,0:39:28.80,fonte legenda,,0000,0000,0000,,Eu imploro que lhe poupe!
+Dialogue: 0,0:39:29.63,0:39:32.30,fonte legenda,,0000,0000,0000,,É por isso que ele é problema.
+Dialogue: 0,0:39:32.30,0:39:34.31,fonte legenda,,0000,0000,0000,,Rei Vegeta!
+Dialogue: 0,0:39:34.31,0:39:37.87,fonte legenda,,0000,0000,0000,,E irá com você também para o Outro Mundo!
+Dialogue: 0,0:40:02.07,0:40:06.34,fonte legenda,,0000,0000,0000,,Achando que Brolly certamente\Nseria uma ameaça a ele no futuro,
+Dialogue: 0,0:40:06.34,0:40:09.67,fonte legenda,,0000,0000,0000,,seu pai conspirou para nos matar,\Npai e filho.
+Dialogue: 0,0:40:09.67,0:40:13.30,fonte legenda,,0000,0000,0000,,Pai e filho, fomos tratados como lixo.
+Dialogue: 0,0:40:29.36,0:40:33.03,fonte legenda,,0000,0000,0000,,Entretanto, nós sobrevivemos.
+Dialogue: 0,0:40:33.03,0:40:39.37,fonte legenda,,0000,0000,0000,,O grande poder adormecido de Brolly\Nnos livrou da beira da morte.
+Dialogue: 0,0:40:39.37,0:40:41.54,fonte legenda,,0000,0000,0000,,Desde então, Vegeta, Eu tenho vivido,
+Dialogue: 0,0:40:41.54,0:40:47.38,fonte legenda,,0000,0000,0000,,pensando apenas em me vingar\Nde você e do seu pai.
+Dialogue: 0,0:40:47.38,0:40:50.75,fonte legenda,,0000,0000,0000,,Assim, quando Brolly te quebrar em pedaços,
+Dialogue: 0,0:40:50.75,0:40:54.19,fonte legenda,,0000,0000,0000,,eu te convido a experimentar o\Nterror que é a morte.
+Dialogue: 0,0:41:14.01,0:41:16.68,fonte legenda,,0000,0000,0000,,Se vocês não quiserem lutar comigo,
+Dialogue: 0,0:41:16.68,0:41:20.27,fonte legenda,,0000,0000,0000,,eu vou destruir todo o planeta!
+Dialogue: 0,0:41:21.35,0:41:23.54,fonte legenda,,0000,0000,0000,,Não vai se safar dessa!
+Dialogue: 0,0:41:34.03,0:41:36.19,fonte legenda,,0000,0000,0000,,Pare! Não há como você ganhar!
+Dialogue: 0,0:41:36.19,0:41:39.03,fonte legenda,,0000,0000,0000,,Esse é o Lendário Super Saiya-jin!
+Dialogue: 0,0:41:39.03,0:41:40.33,fonte legenda,,0000,0000,0000,,Observe atentamente.
+Dialogue: 0,0:41:40.33,0:41:44.53,fonte legenda,,0000,0000,0000,,Nem no inferno existe um\Nshow de chacina tão interessante.
+Dialogue: 0,0:42:27.01,0:42:29.92,fonte legenda,,0000,0000,0000,,Parece que você finalmente começou a lutar.
+Dialogue: 0,0:42:29.92,0:42:34.35,fonte legenda,,0000,0000,0000,,Pensou que poderia me vencer\Ncom esse nível de poder?
+Dialogue: 0,0:42:34.35,0:42:39.69,fonte legenda,,0000,0000,0000,,Brolly, você me surpreendeu.\NVocê é mesmo forte, hein?
+Dialogue: 0,0:42:39.69,0:42:42.52,fonte legenda,,0000,0000,0000,,Então, vamos começar o segundo round?
+Dialogue: 0,0:42:49.03,0:42:51.83,fonte legenda,,0000,0000,0000,,Vamos, você é pesado!
+Dialogue: 0,0:43:00.71,0:43:03.20,fonte legenda,,0000,0000,0000,,Corram, Corram!\NOh, estou escorregando, estou escorregando!
+Dialogue: 0,0:43:05.65,0:43:06.99,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:43:06.99,0:43:10.25,fonte legenda,,0000,0000,0000,,Oolong, Kuririn, o que aconteceu com o velho?
+Dialogue: 0,0:43:16.66,0:43:19.19,fonte legenda,,0000,0000,0000,,Estou bem aqui, bem aqui!
+Dialogue: 0,0:43:23.34,0:43:27.20,fonte legenda,,0000,0000,0000,,Parece que você\Nestá tendo uma batalha difícil, Goku.
+Dialogue: 0,0:43:29.01,0:43:31.01,fonte legenda,,0000,0000,0000,,Velho...
+Dialogue: 0,0:43:31.01,0:43:34.35,fonte legenda,,0000,0000,0000,,Brócolis, não é?\NSerá que você agüenta lutar comigo?
+Dialogue: 0,0:43:34.35,0:43:37.04,fonte legenda,,0000,0000,0000,,Não é "Brócolis", é "Brolly."
+Dialogue: 0,0:43:41.02,0:43:45.02,fonte legenda,,0000,0000,0000,,Ka... me... ha... m...
+Dialogue: 0,0:43:45.02,0:43:50.36,fonte legenda,,0000,0000,0000,,...Hein? Olá! Ah.. olá!
+Dialogue: 0,0:43:50.36,0:43:57.50,fonte legenda,,0000,0000,0000,,Olá! Olá! Ria, ria!\NRia até desmaiar e perca!
+Dialogue: 0,0:43:59.37,0:44:03.64,fonte legenda,,0000,0000,0000,,Goku! O Mestre Kame continua bêbado!
+Dialogue: 0,0:44:05.64,0:44:10.60,fonte legenda,,0000,0000,0000,,Os escravos que trouxemos do\NPlaneta Shamo, não é?
+Dialogue: 0,0:44:12.32,0:44:18.66,fonte legenda,,0000,0000,0000,,Vocês têm observado as estrelas,\Nesperando voltar lá um dia, não é?
+Dialogue: 0,0:44:18.66,0:44:22.39,fonte legenda,,0000,0000,0000,,Seria legal voltar lá um dia, não seria?
+Dialogue: 0,0:44:29.00,0:44:31.03,fonte legenda,,0000,0000,0000,,Planeta Shamo...!
+Dialogue: 0,0:44:50.69,0:44:52.36,fonte legenda,,0000,0000,0000,,Ele é o demônio!
+Dialogue: 0,0:44:52.36,0:44:56.99,fonte legenda,,0000,0000,0000,,Se deixarmos esse cara vivo, ele\Ndestruirá todo o universo!
+Dialogue: 0,0:44:59.36,0:45:02.36,fonte legenda,,0000,0000,0000,,Temos que vencer!
+Dialogue: 0,0:45:12.98,0:45:17.32,fonte legenda,,0000,0000,0000,,G-Goku, Gohan, Trunks, acho que\Nficaremos melhor longe daqui!
+Dialogue: 0,0:45:17.32,0:45:21.08,fonte legenda,,0000,0000,0000,,Não, ficaremos melhor longe desse planeta!
+Dialogue: 0,0:45:35.67,0:45:38.93,fonte legenda,,0000,0000,0000,,Kakarotto, você gosta do seu filho?
+Dialogue: 0,0:45:41.01,0:45:42.01,fonte legenda,,0000,0000,0000,,Gohan, corra!
+Dialogue: 0,0:45:42.01,0:45:44.01,fonte legenda,,0000,0000,0000,,Mas papai...!
+Dialogue: 0,0:45:44.01,0:45:45.10,fonte legenda,,0000,0000,0000,,Vá!
+Dialogue: 0,0:46:26.32,0:46:27.91,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:46:56.01,0:46:57.41,fonte legenda,,0000,0000,0000,,G-Gohan!
+Dialogue: 0,0:47:06.46,0:47:08.19,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:47:35.32,0:47:37.29,fonte legenda,,0000,0000,0000,,Estive economizando este!
+Dialogue: 0,0:47:39.99,0:47:42.76,fonte legenda,,0000,0000,0000,,Você é um pouco persistente!
+Dialogue: 0,0:48:08.62,0:48:13.22,fonte legenda,,0000,0000,0000,,Meu Ki está crescendo. Está transbordando!
+Dialogue: 0,0:48:43.32,0:48:47.66,fonte legenda,,0000,0000,0000,,Nós deixamos nosso lanche da\Nfeira de exibição de flores na nave.
+Dialogue: 0,0:48:47.66,0:48:52.33,fonte legenda,,0000,0000,0000,,Mestre Kame, mais importante que\Nisso, não podemos voltar para casa.
+Dialogue: 0,0:48:52.33,0:48:55.39,fonte legenda,,0000,0000,0000,,E eu estava no meio do karaokê ainda...
+Dialogue: 0,0:49:33.30,0:49:36.43,fonte legenda,,0000,0000,0000,,Filho de Kakarotto...
+Dialogue: 0,0:50:10.68,0:50:14.01,fonte legenda,,0000,0000,0000,,Então apareceu mais um verme para morrer?
+Dialogue: 0,0:50:14.01,0:50:17.47,fonte legenda,,0000,0000,0000,,Hmph, faça como quiser, aberração!
+Dialogue: 0,0:50:19.68,0:50:22.69,fonte legenda,,0000,0000,0000,,Eu sou uma aberração?
+Dialogue: 0,0:50:22.69,0:50:26.59,fonte legenda,,0000,0000,0000,,Não apenas. Sou um demônio!
+Dialogue: 0,0:50:45.38,0:50:47.64,fonte legenda,,0000,0000,0000,,Gohan, aqui está, uma Senzu! Coma!
+Dialogue: 0,0:50:56.05,0:50:59.32,fonte legenda,,0000,0000,0000,,Pic...colo-san?
+Dialogue: 0,0:51:01.73,0:51:03.35,fonte legenda,,0000,0000,0000,,Piccolo-san!
+Dialogue: 0,0:51:08.00,0:51:10.44,fonte legenda,,0000,0000,0000,,Oh, é como voltar a viver!
+Dialogue: 0,0:51:10.44,0:51:12.34,fonte legenda,,0000,0000,0000,,Piccolo, é bom ver que você veio!
+Dialogue: 0,0:51:12.34,0:51:15.67,fonte legenda,,0000,0000,0000,,Se eu não tivesse comido aquela Senzu,\Neu já estaria morto!
+Dialogue: 0,0:51:15.67,0:51:19.34,fonte legenda,,0000,0000,0000,,Eu ouvi a conversa entre você e o Kaioh-sama.
+Dialogue: 0,0:51:19.34,0:51:22.78,fonte legenda,,0000,0000,0000,,É uma vergonha que\Neu não possa usar o teletransporte.
+Dialogue: 0,0:51:28.69,0:51:31.99,fonte legenda,,0000,0000,0000,,Nunca senti nada assim antes.
+Dialogue: 0,0:51:31.99,0:51:35.69,fonte legenda,,0000,0000,0000,,O Ki que sinto é\Ntão incrível, tão estremecedor.
+Dialogue: 0,0:51:35.69,0:51:38.75,fonte legenda,,0000,0000,0000,,Vocês arranjaram um\Noponente bem estranho, não?
+Dialogue: 0,0:51:41.70,0:51:43.56,fonte legenda,,0000,0000,0000,,Trunks, coma essa Senzu.
+Dialogue: 0,0:51:55.71,0:52:01.39,fonte legenda,,0000,0000,0000,,Finalmente chegou. Esse planeta só\Ntem mais algumas horas de vida.
+Dialogue: 0,0:52:01.39,0:52:07.38,fonte legenda,,0000,0000,0000,,Vegeta, seu medo de morte\Nterminará em breve. Seja grato.
+Dialogue: 0,0:52:11.00,0:52:15.93,fonte legenda,,0000,0000,0000,,Sabe, sorte que o Piccolo tem uma nave.
+Dialogue: 0,0:52:21.67,0:52:23.91,fonte legenda,,0000,0000,0000,,Vocês poderiam ter sido mortos rapidamente...
+Dialogue: 0,0:52:23.91,0:52:26.01,fonte legenda,,0000,0000,0000,,não precisavam\Nenfrentar um destino tão doloroso!
+Dialogue: 0,0:52:26.01,0:52:29.91,fonte legenda,,0000,0000,0000,,Dar-lhes-ei credito por serem Saiya-jins.
+Dialogue: 0,0:52:41.69,0:52:43.66,LEGENDA PARA PODERES,,0000,0000,0000,,Masenko!
+Dialogue: 0,0:53:13.99,0:53:16.79,fonte legenda,,0000,0000,0000,,Não adianta, é o fim!
+Dialogue: 0,0:53:19.00,0:53:21.00,fonte legenda,,0000,0000,0000,,O que você está resmungando?!
+Dialogue: 0,0:53:21.00,0:53:23.00,fonte legenda,,0000,0000,0000,,Se você tem tempo\Npara se lamentar, então lute!
+Dialogue: 0,0:53:23.00,0:53:26.67,fonte legenda,,0000,0000,0000,,Não adianta! Vocês não entendem?!
+Dialogue: 0,0:53:26.67,0:53:29.01,fonte legenda,,0000,0000,0000,,Que tipo de príncipe Saiya-jin é você?
+Dialogue: 0,0:53:29.01,0:53:30.97,fonte legenda,,0000,0000,0000,,S-Solte-me!
+Dialogue: 0,0:53:41.69,0:53:46.36,fonte legenda,,0000,0000,0000,,Fujam! Não podemos vencer!
+Dialogue: 0,0:53:46.36,0:53:48.36,fonte legenda,,0000,0000,0000,,Para onde fugirmos, dará no mesmo.
+Dialogue: 0,0:53:48.36,0:53:51.70,fonte legenda,,0000,0000,0000,,Se não derrotarmos ele,\Nserá o fim do universo!
+Dialogue: 0,0:53:51.70,0:53:56.03,fonte legenda,,0000,0000,0000,,Não temos nem uma chance.\NAfinal, ele é o Lendário Super Saiya-jin!
+Dialogue: 0,0:53:56.03,0:54:01.63,fonte legenda,,0000,0000,0000,,Se você já perdeu as esperanças,\Nentão vá embora e não volte mais!
+Dialogue: 0,0:54:02.97,0:54:05.31,fonte legenda,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:54:05.31,0:54:08.30,fonte legenda,,0000,0000,0000,,Por que eles continuam lutando?
+Dialogue: 0,0:54:11.32,0:54:17.41,fonte legenda,,0000,0000,0000,,Por quê? Por que eles lutam? \NQuando não há nenhuma chance de vitória, por quê?
+Dialogue: 0,0:54:19.32,0:54:21.42,fonte legenda,,0000,0000,0000,,Seremos mortos!
+Dialogue: 0,0:54:28.67,0:54:32.69,fonte legenda,,0000,0000,0000,,Eu posso ser durão,\Nmas esse cara é muito mais!
+Dialogue: 0,0:54:39.01,0:54:42.35,fonte legenda,,0000,0000,0000,,Ei, calma aí!
+Dialogue: 0,0:54:42.35,0:54:44.94,fonte legenda,,0000,0000,0000,,O que "calma" significa?
+Dialogue: 0,0:55:06.14,0:55:08.26,fonte legenda,,0000,0000,0000,,Seus idiotas!
+Dialogue: 0,0:55:26.32,0:55:27.99,LEGENDA PARA PODERES,,0000,0000,0000,,KA...
+Dialogue: 0,0:55:27.99,0:55:29.66,LEGENDA PARA PODERES,,0000,0000,0000,,ME...
+Dialogue: 0,0:55:29.66,0:55:31.66,LEGENDA PARA PODERES,,0000,0000,0000,,HA...
+Dialogue: 0,0:55:31.66,0:55:34.00,LEGENDA PARA PODERES,,0000,0000,0000,,ME...
+Dialogue: 0,0:55:34.00,0:55:35.86,LEGENDA PARA PODERES,,0000,0000,0000,,HA!!
+Dialogue: 0,0:55:49.68,0:55:53.41,fonte legenda,,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:56:14.97,0:56:18.70,fonte legenda,,0000,0000,0000,,Um guerreiro de classe baixa\Nestá lutando, e mesmo assim...
+Dialogue: 0,0:56:24.65,0:56:26.78,fonte legenda,,0000,0000,0000,,Eu sou Vegeta!!
+Dialogue: 0,0:56:40.66,0:56:42.00,fonte legenda,,0000,0000,0000,,Pare de perder tempo!
+Dialogue: 0,0:56:42.00,0:56:43.00,fonte legenda,,0000,0000,0000,,Pai!
+Dialogue: 0,0:56:43.00,0:56:46.00,fonte legenda,,0000,0000,0000,,O Príncipe Saiya-jin, Vegeta,\Nserá seu oponente agora!
+Dialogue: 0,0:56:46.00,0:56:50.70,fonte legenda,,0000,0000,0000,,Hmph! Você não morrerá tão facilmente!
+Dialogue: 0,0:57:06.29,0:57:07.95,fonte legenda,,0000,0000,0000,,Pai!
+Dialogue: 0,0:57:27.65,0:57:30.05,fonte legenda,,0000,0000,0000,,Já acabou?
+Dialogue: 0,0:57:35.99,0:57:41.39,fonte legenda,,0000,0000,0000,,Acabou, certo?\NUma vez lixo, sempre lixo.
+Dialogue: 0,0:57:55.67,0:57:59.34,fonte legenda,,0000,0000,0000,,Esse planeta só tem\Npoucas horas de vida sobrando.
+Dialogue: 0,0:57:59.34,0:58:05.28,fonte legenda,,0000,0000,0000,,Agora que não o controlo mais,\Nvocê só irá me atrapalhar.
+Dialogue: 0,0:58:05.28,0:58:07.35,fonte legenda,,0000,0000,0000,,Fico triste por fazer isso, mas Brolly,
+Dialogue: 0,0:58:07.35,0:58:10.72,fonte legenda,,0000,0000,0000,,você vai morrer aqui, junto com esse planeta.
+Dialogue: 0,0:58:14.29,0:58:17.75,fonte legenda,,0000,0000,0000,,Esse planeta logo irá desaparecer.
+Dialogue: 0,0:58:24.64,0:58:27.30,fonte legenda,,0000,0000,0000,,Onde você está indo?
+Dialogue: 0,0:58:27.30,0:58:32.98,fonte legenda,,0000,0000,0000,,Estou me preparando para me abrigar com você!
+Dialogue: 0,0:58:32.98,0:58:36.04,fonte legenda,,0000,0000,0000,,Numa nave de um assento?
+Dialogue: 0,0:58:52.00,0:58:58.06,fonte legenda,,0000,0000,0000,,Ser morto pelo seu único filho...\Né esse também o destino de um Saiya-jin?
+Dialogue: 0,0:59:12.95,0:59:18.12,fonte legenda,,0000,0000,0000,,Acha que eu morreria\Ncom a explosão de um planeta?
+Dialogue: 0,0:59:33.64,0:59:38.27,fonte legenda,,0000,0000,0000,,Seu lixo, você ainda está vivo?
+Dialogue: 0,1:00:06.34,1:00:12.34,fonte legenda,,0000,0000,0000,,Não posso deixá-lo sobreviver!\NEu não posso perder!
+Dialogue: 0,1:00:12.34,1:00:17.58,fonte legenda,,0000,0000,0000,,Bem, vamos! Esse será o lugar de sua morte!
+Dialogue: 0,1:00:22.02,1:00:23.08,fonte legenda,,0000,0000,0000,,Son!
+Dialogue: 0,1:00:25.02,1:00:28.98,fonte legenda,,0000,0000,0000,,Maldição! Dêem seus poderes ao Son!
+Dialogue: 0,1:00:32.03,1:00:34.03,fonte legenda,,0000,0000,0000,,Piccolo-san!
+Dialogue: 0,1:00:34.03,1:00:39.70,fonte legenda,,0000,0000,0000,,Dêem-me seus poderes! Dêem-me\Nseus poderes para derrotá-lo!
+Dialogue: 0,1:00:39.70,1:00:42.04,fonte legenda,,0000,0000,0000,,Goku-san...
+Dialogue: 0,1:00:42.04,1:00:46.70,fonte legenda,,0000,0000,0000,,Não ajudarei Kakarotto...
+Dialogue: 0,1:00:53.05,1:00:54.39,fonte legenda,,0000,0000,0000,,Son...
+Dialogue: 0,1:00:54.39,1:00:56.88,fonte legenda,,0000,0000,0000,,Papai...
+Dialogue: 0,1:01:51.04,1:01:54.74,fonte legenda,,0000,0000,0000,,Não posso perder! Dêem mais poder!
+Dialogue: 0,1:03:41.35,1:03:45.08,fonte legenda,,0000,0000,0000,,Tem que ser desse jeito,\Nsenão não seria divertido!
+Dialogue: 0,1:03:56.03,1:03:59.04,fonte legenda,,0000,0000,0000,,É inútil, Kakarotto!
+Dialogue: 0,1:03:59.04,1:04:02.10,fonte legenda,,0000,0000,0000,,N-Não podemos vencer!
+Dialogue: 0,1:04:14.32,1:04:17.12,fonte legenda,,0000,0000,0000,,Duro de matar!
+Dialogue: 0,1:04:32.34,1:04:35.60,fonte legenda,,0000,0000,0000,,Pare, Kakarotto!
+Dialogue: 0,1:04:53.02,1:04:56.36,fonte legenda,,0000,0000,0000,,O.. O príncipe não dá seus poderes\Npara um guerreiro de classe baixa...
+Dialogue: 0,1:04:56.36,1:05:01.53,fonte legenda,,0000,0000,0000,,Dê-me poder... para derrotar esse cara.
+Dialogue: 0,1:05:14.31,1:05:16.30,fonte legenda,,0000,0000,0000,,Pai...
+Dialogue: 0,1:05:17.98,1:05:20.38,fonte legenda,,0000,0000,0000,,V-Vegeta!
+Dialogue: 0,1:05:23.15,1:05:24.92,fonte legenda,,0000,0000,0000,,E-Eu te imploro!
+Dialogue: 0,1:05:25.99,1:05:27.99,fonte legenda,,0000,0000,0000,,Maldição!
+Dialogue: 0,1:05:27.99,1:05:33.00,fonte legenda,,0000,0000,0000,,Poder! O poder para derrotar esse cara!
+Dialogue: 0,1:05:33.00,1:05:36.69,fonte legenda,,0000,0000,0000,,Dê-me seu poder!!
+Dialogue: 0,1:05:39.67,1:05:43.27,fonte legenda,,0000,0000,0000,,Eu sou o príncipe dos Saiya-jins!
+Dialogue: 0,1:05:43.27,1:05:48.01,fonte legenda,,0000,0000,0000,,Eu sou o príncipe!\NComo se eu fosse fazer isso...
+Dialogue: 0,1:05:48.01,1:05:50.81,fonte legenda,,0000,0000,0000,,Como se eu fosse fazer isso...!
+Dialogue: 0,1:06:15.31,1:06:19.64,fonte legenda,,0000,0000,0000,,Você durou bastante, mas\Nparece que chegou o seu fim.
+Dialogue: 0,1:06:21.31,1:06:27.65,fonte legenda,,0000,0000,0000,,Dê-me poder... Poder para derrotá-lo...
+Dialogue: 0,1:06:27.65,1:06:30.92,fonte legenda,,0000,0000,0000,,Dê-me seu poder!!
+Dialogue: 0,1:06:34.99,1:06:41.12,fonte legenda,,0000,0000,0000,,Eu sou o Príncipe dos Saiya-jins!
+Dialogue: 0,1:06:54.34,1:06:55.33,fonte legenda,,0000,0000,0000,,O quê?!
+Dialogue: 0,1:06:58.01,1:07:01.02,fonte legenda,,0000,0000,0000,,Que tipo de guerreiro é esse?
+Dialogue: 0,1:07:01.02,1:07:03.68,fonte legenda,,0000,0000,0000,,Não vou te deixar escapar dessa!
+Dialogue: 0,1:07:11.63,1:07:14.89,fonte legenda,,0000,0000,0000,,Como se eu fosse fazer isso...!
+Dialogue: 0,1:07:19.64,1:07:20.80,fonte legenda,,0000,0000,0000,,Son...
+Dialogue: 0,1:07:22.97,1:07:24.74,fonte legenda,,0000,0000,0000,,Goku-san...
+Dialogue: 0,1:07:26.64,1:07:30.17,fonte legenda,,0000,0000,0000,,Papai, vença...!
+Dialogue: 0,1:07:31.98,1:07:34.82,fonte legenda,,0000,0000,0000,,Não importa quanto energia você\Nabsorveu desses vermes,
+Dialogue: 0,1:07:34.82,1:07:37.45,fonte legenda,,0000,0000,0000,,você não pode me superar!
+Dialogue: 0,1:07:39.66,1:07:44.99,fonte legenda,,0000,0000,0000,,Vamos ver... Nunca se sabe até tentar!
+Dialogue: 0,1:08:17.63,1:08:19.99,fonte legenda,,0000,0000,0000,,Dessa você não escapa!
+Dialogue: 0,1:08:33.64,1:08:37.14,fonte legenda,,0000,0000,0000,,Dessa você não escapa, com certeza!
+Dialogue: 0,1:08:39.65,1:08:42.17,fonte legenda,,0000,0000,0000,,Impossível!
+Dialogue: 0,1:08:50.99,1:08:54.19,fonte legenda,,0000,0000,0000,,Nossos poderes venceram!
+Dialogue: 0,1:09:14.62,1:09:16.95,fonte legenda,,0000,0000,0000,,O que é isso?!
+Dialogue: 0,1:09:16.95,1:09:21.63,fonte legenda,,0000,0000,0000,,- Calma, calma...\N- Onde você pensa que...
+Dialogue: 0,1:09:21.63,1:09:23.75,fonte legenda,,0000,0000,0000,,Goku, que bom que você conseguiu!
+Dialogue: 0,1:09:37.64,1:09:40.51,fonte legenda,,0000,0000,0000,,Goku, meus parabéns.
+Dialogue: 0,1:09:46.32,1:09:51.99,fonte legenda,,0000,0000,0000,,Gohan, a escola já era!\NIsso é tudo culpa do Goku-san!
+Dialogue: 0,1:09:51.99,1:09:55.65,fonte legenda,,0000,0000,0000,,Chichi, meus hobbies são leitura e esportes!
+Dialogue: 0,1:10:00.00,1:10:00.96,fonte legenda,,0000,0000,0000,,Mamãe!
+Dialogue: 0,1:10:01.16,1:10:02.20,fonte legenda,,0000,0000,0000,,Mamãe!
+Dialogue: 0,1:10:02.20,1:10:05.00,fonte legenda,,0000,0000,0000,,Chichi! Ei, Chichi!
+Dialogue: 0,1:10:05.00,1:10:06.54,fonte legenda,,0000,0000,0000,,Mamãe!
+Dialogue: 0,1:10:06.54,1:10:09.24,fonte legenda,,0000,0000,0000,,Chichi! Chichi!
+Dialogue: 0,1:10:09.24,1:10:13.77,fonte legenda,,0000,0000,0000,,Na Terra, continua uma calma primavera.
+Dialogue: 0,1:10:21.15,1:10:35.37,legenda para abertura e encerramento,,0000,0000,0000,,Luta quente, luta ardente,\NLuta Super Violenta, Z!
+Dialogue: 0,1:10:35.37,1:10:42.24,legenda para abertura e encerramento,,0000,0000,0000,,SOS, como sempre, chegou minha vez
+Dialogue: 0,1:10:42.24,1:10:48.71,legenda para abertura e encerramento,,0000,0000,0000,,Quando eu for, estará tudo bem,\Nconto com vocês para me dar cobertura
+Dialogue: 0,1:10:48.71,1:11:03.26,legenda para abertura e encerramento,,0000,0000,0000,,Esmagado pelo perigo do cometa gigante\Nque se aproxima, meu espírito se incendeia!
+Dialogue: 0,1:11:03.26,1:11:10.20,legenda para abertura e encerramento,,0000,0000,0000,,E eu queimo, e eu queimo, pouco\Nantes da colisão, eu queimo!
+Dialogue: 0,1:11:10.20,1:11:18.17,legenda para abertura e encerramento,,0000,0000,0000,,E eu queimo, e eu queimo,\Nsangue quente fervente, e eu queimo!
+Dialogue: 0,1:11:18.17,1:11:24.68,legenda para abertura e encerramento,,0000,0000,0000,,Luta quente, luta ardente,\NLuta Super Violenta, Z!
+Dialogue: 0,1:11:24.68,1:11:31.72,legenda para abertura e encerramento,,0000,0000,0000,,BURNING FIGHT! BURNING FIGHT!\NMeu sangue vermelho está em chamas!
+Dialogue: 0,1:11:31.72,1:11:39.33,legenda para abertura e encerramento,,0000,0000,0000,,E eu queimo, e eu queimo, como\Numa explosão luminosa , eu queimo!
+Dialogue: 0,1:11:39.33,1:11:46.60,legenda para abertura e encerramento,,0000,0000,0000,,Luta quente, luta ardente,\NLuta Super Violenta, Z!
+Dialogue: 0,1:11:48.35,1:11:51.02,legenda para anuncio de episódio e creditos,,0000,0000,0000,,"LEGENDAS: MAZZOCATO"\N"EDIÇÃO: HUGOKAMUS"
+Dialogue: 0,1:11:51.60,1:11:55.82,legenda para anuncio de episódio e creditos,,0000,0000,0000,,FIM

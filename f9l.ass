@@ -1,0 +1,426 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: fonte legenda,Tahoma,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para abertura e encerramento,@GungsuhChe,30,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para anuncio de episódio e creditos,Brush Script Std,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: LEGENDA PARA PODERES,AR JULIAN,35,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: anuncio dos locais,Tekton Pro Ext,35,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:18.73,0:00:21.56,fonte legenda,,0000,0000,0000,,Os quatro guerreiros fenomenais,\Nrepresentando as quatro galáxias,
+Dialogue: 0,0:00:21.56,0:00:25.93,fonte legenda,,0000,0000,0000,,que serão participantes especiais nesse\Ngrande Tenkaichi Budokai,
+Dialogue: 0,0:00:25.93,0:00:27.70,fonte legenda,,0000,0000,0000,,que está sendo organizado\Npelo milhonário Gyosan Money,
+Dialogue: 0,0:00:27.70,0:00:30.07,fonte legenda,,0000,0000,0000,,acabaram de chegar na Terra!
+Dialogue: 0,0:00:30.07,0:00:33.41,fonte legenda,,0000,0000,0000,,Nossa! As coisas ficaram animadas!
+Dialogue: 0,0:00:33.41,0:00:36.28,fonte legenda,,0000,0000,0000,,Essa é a primeira vez que eu vejo um alien,
+Dialogue: 0,0:00:36.28,0:00:38.71,fonte legenda,,0000,0000,0000,,estou impressionada!
+Dialogue: 0,0:00:39.41,0:00:42.58,fonte legenda,,0000,0000,0000,,Então, deixe-me fazer umas perguntas\Nao senhor Gyosan Money.
+Dialogue: 0,0:00:42.58,0:00:46.42,fonte legenda,,0000,0000,0000,,O que é o grande\NTenkaichi Budokai, exatamente?
+Dialogue: 0,0:00:46.42,0:00:50.92,fonte legenda,,0000,0000,0000,,Meu adorável e único filho,\NDoll, implorou por isso, sabe...
+Dialogue: 0,0:00:50.92,0:00:54.43,fonte legenda,,0000,0000,0000,,É o nosso presente\Npara ele no seu décimo aniversário.
+Dialogue: 0,0:00:54.43,0:00:57.43,fonte legenda,,0000,0000,0000,,Papai, vai ter aliens mesmo?
+Dialogue: 0,0:00:57.43,0:00:58.93,fonte legenda,,0000,0000,0000,,Oh, é claro.
+Dialogue: 0,0:00:58.93,0:01:02.04,fonte legenda,,0000,0000,0000,,Essa será uma batalha entre\Nos terráqueos mais poderosos e os aliens.
+Dialogue: 0,0:01:02.04,0:01:05.37,fonte legenda,,0000,0000,0000,,Eu vou deixar você assistir\Ntudo desses assentos especiais.
+Dialogue: 0,0:01:05.37,0:01:10.04,fonte legenda,,0000,0000,0000,,Doll, desde que você tenha dinheiro\Nnesse mundo, você pode fazer qualquer coisa!
+Dialogue: 0,0:01:10.04,0:01:13.71,fonte legenda,,0000,0000,0000,,P-Produtor, poderia nos explicar?
+Dialogue: 0,0:01:13.71,0:01:19.72,fonte legenda,,0000,0000,0000,,O homem mais rico do mundo, Sr. Gyosan Money,
+Dialogue: 0,0:01:19.72,0:01:23.39,fonte legenda,,0000,0000,0000,,está patrocinando o maior\Ntorneio de artes marciais já feito!
+Dialogue: 0,0:01:23.39,0:01:24.96,fonte legenda,,0000,0000,0000,,É um torneio onde,
+Dialogue: 0,0:01:24.96,0:01:28.06,fonte legenda,,0000,0000,0000,,independente de idade, gênero,\Nnacionalidade, de ser amador ou profissional,
+Dialogue: 0,0:01:28.06,0:01:30.16,fonte legenda,,0000,0000,0000,,os lutadores mais poderosos\Nde todo o mundo foram convidados,
+Dialogue: 0,0:01:30.16,0:01:33.07,fonte legenda,,0000,0000,0000,,e podem lutar entre si o quanto quiserem!
+Dialogue: 0,0:01:33.07,0:01:36.07,fonte legenda,,0000,0000,0000,,O vencedor receberá 100 milhões de zeni!
+Dialogue: 0,0:01:36.07,0:01:38.00,fonte legenda,,0000,0000,0000,,Pacotes de viagem para a família inteira
+Dialogue: 0,0:01:38.00,0:01:42.08,fonte legenda,,0000,0000,0000,,para ir às fontes termais de\Ntodo o mundo também serão oferecidas!
+Dialogue: 0,0:01:42.08,0:01:46.01,fonte legenda,,0000,0000,0000,,Além disso,\No vencedor se encontrará com o herói
+Dialogue: 0,0:01:46.01,0:01:48.41,fonte legenda,,0000,0000,0000,,que salvou a\Nhumanidade do terror do torneio de Cell,
+Dialogue: 0,0:01:48.41,0:01:53.91,fonte legenda,,0000,0000,0000,,algo que minha enorme\Nriqueza fez possível pela primeira vez...
+Dialogue: 0,0:01:56.42,0:02:00.02,fonte legenda,,0000,0000,0000,,o direito de desafiar Mr. Satan no ringue!
+Dialogue: 0,0:02:16.38,0:02:19.05,fonte legenda,,0000,0000,0000,,É o excepcional, o lutador\Nmais poderoso da Terra, Mr. Satan.
+Dialogue: 0,0:02:19.05,0:02:21.21,fonte legenda,,0000,0000,0000,,Mr. Satan!
+Dialogue: 0,0:02:39.40,0:02:43.60,fonte legenda,,0000,0000,0000,,Então Mr. Satan que ficou\Ncom a fama por ter derrotado Cell?
+Dialogue: 0,0:02:44.74,0:02:47.07,fonte legenda,,0000,0000,0000,,Está tudo bem.
+Dialogue: 0,0:03:00.09,0:03:05.36,legenda para abertura e encerramento,,0000,0000,0000,,Passe pelas nuvens brilhantes,\Ne Fly Away, (Fly Away)
+Dialogue: 0,0:03:05.36,0:03:12.70,legenda para abertura e encerramento,,0000,0000,0000,,Como um panorama que se\Nespalha por todo o meu ser
+Dialogue: 0,0:03:12.70,0:03:18.04,legenda para abertura e encerramento,,0000,0000,0000,,A Terra em seu rosto\Nferido se enfurece (enfurece)!
+Dialogue: 0,0:03:18.04,0:03:24.71,legenda para abertura e encerramento,,0000,0000,0000,,E faz um vulcão explodir!
+Dialogue: 0,0:03:24.71,0:03:31.22,legenda para abertura e encerramento,,0000,0000,0000,,E bem no fundo derretendo o gelo
+Dialogue: 0,0:03:31.22,0:03:40.06,legenda para abertura e encerramento,,0000,0000,0000,,eu acho um dinossauro, quero\Nensiná-lo a se equilibrar sobre uma bola
+Dialogue: 0,0:03:40.06,0:03:43.56,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:03:43.56,0:03:52.57,legenda para abertura e encerramento,,0000,0000,0000,,Não importa o que aconteça sinto\Ncomo se nada pudesse me incomodar
+Dialogue: 0,0:03:52.57,0:03:56.24,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:03:56.24,0:04:02.01,legenda para abertura e encerramento,,0000,0000,0000,,Meu coração está batendo tão forte,\Na Genki-Dama irá rugir!
+Dialogue: 0,0:04:02.01,0:04:05.52,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:04:05.52,0:04:14.53,legenda para abertura e encerramento,,0000,0000,0000,,Quanto mais vazia sua cabeça é, mais\Nespaço tem para preencher com sonhos
+Dialogue: 0,0:04:14.53,0:04:18.03,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:04:18.03,0:04:24.87,legenda para abertura e encerramento,,0000,0000,0000,,Com uma cara alegre e um Ultra-Z,\Nhoje está ai-yai-yai-yai-yai...
+Dialogue: 0,0:04:24.87,0:04:27.03,legenda para abertura e encerramento,,0000,0000,0000,,Sparking!
+Dialogue: 0,0:05:01.84,0:05:09.81,legenda para anuncio de episódio e creditos,,0000,0000,0000,,"A Galáxia está em perigo!!\NO homem superincrível"
+Dialogue: 0,0:05:15.86,0:05:18.19,fonte legenda,,0000,0000,0000,,Há exatamente\N200 concorrentes de todo o mundo,
+Dialogue: 0,0:05:18.19,0:05:21.53,fonte legenda,,0000,0000,0000,,muito confiantes em suas\Nhabilidades para virem até o torneio.
+Dialogue: 0,0:05:21.53,0:05:24.53,fonte legenda,,0000,0000,0000,,Com a chance de desafiar o herói\NMister Satan no ringue,
+Dialogue: 0,0:05:24.53,0:05:26.70,fonte legenda,,0000,0000,0000,,as preliminares já começaram
+Dialogue: 0,0:05:26.70,0:05:28.87,fonte legenda,,0000,0000,0000,,em oito ringues de batalhas diferentes!
+Dialogue: 0,0:05:28.87,0:05:33.87,fonte legenda,,0000,0000,0000,,Cada ringue tem 25\Nconcorrentes lutando entre si
+Dialogue: 0,0:05:33.87,0:05:38.88,fonte legenda,,0000,0000,0000,,e apenas o lutador que sobrar\Nde cada ringue vai avançar para as semifinais!
+Dialogue: 0,0:05:38.88,0:05:40.55,fonte legenda,,0000,0000,0000,,Como explicação para as regras,
+Dialogue: 0,0:05:40.55,0:05:43.35,fonte legenda,,0000,0000,0000,,quem cair do ringue no mar,
+Dialogue: 0,0:05:43.35,0:05:46.22,fonte legenda,,0000,0000,0000,,for nocauteado, ou desistir, está eliminado.
+Dialogue: 0,0:05:46.22,0:05:50.96,fonte legenda,,0000,0000,0000,,Entretanto,\Nninguém pode, claro, matar outro oponente..
+Dialogue: 0,0:05:50.96,0:05:54.15,fonte legenda,,0000,0000,0000,,Usar armas\Ntambém é razão para ser desqualificado.
+Dialogue: 0,0:06:12.18,0:06:14.18,fonte legenda,,0000,0000,0000,,Quem será que devo levar comigo no meu tour
+Dialogue: 0,0:06:14.18,0:06:16.52,fonte legenda,,0000,0000,0000,,pelas águas termais do mundo?
+Dialogue: 0,0:06:16.52,0:06:18.18,fonte legenda,,0000,0000,0000,,Gohan-chan!
+Dialogue: 0,0:06:18.18,0:06:21.52,fonte legenda,,0000,0000,0000,,Gohan-chan, acabe com eles!
+Dialogue: 0,0:06:21.52,0:06:27.72,fonte legenda,,0000,0000,0000,,Ahn? Gohan está participando?\NMas ele é um Super Saiya-jin!
+Dialogue: 0,0:06:32.20,0:06:34.87,fonte legenda,,0000,0000,0000,,N-não! Piccolo, também!
+Dialogue: 0,0:06:34.87,0:06:38.43,fonte legenda,,0000,0000,0000,,Eu não creio\Nque Trunks está aqui também, está?
+Dialogue: 0,0:06:46.21,0:06:47.71,fonte legenda,,0000,0000,0000,,Se fossem apenas Yamucha e Tenshinhan,
+Dialogue: 0,0:06:47.71,0:06:50.51,fonte legenda,,0000,0000,0000,,acho que teria alguma chance.
+Dialogue: 0,0:06:56.22,0:06:59.56,fonte legenda,,0000,0000,0000,,Chichi-san, estou surpresa que você\Ndeixou o Gohan-kun participar.
+Dialogue: 0,0:06:59.56,0:07:03.13,fonte legenda,,0000,0000,0000,,Gohan-chan só estuda o dia inteiro.
+Dialogue: 0,0:07:03.13,0:07:06.50,fonte legenda,,0000,0000,0000,,Se ele não continuar treinando,\Nterá sido tudo por nada.
+Dialogue: 0,0:07:06.50,0:07:09.50,fonte legenda,,0000,0000,0000,,Pensei que não seria tão mal\Ndeixá-lo relaxar de vez em quando.
+Dialogue: 0,0:07:09.50,0:07:12.51,fonte legenda,,0000,0000,0000,,É mesmo?\NIsso é amor de mãe.
+Dialogue: 0,0:07:12.51,0:07:14.81,fonte legenda,,0000,0000,0000,,Eu queria ir no\Ntour das fontes termais do mundo
+Dialogue: 0,0:07:14.81,0:07:16.34,fonte legenda,,0000,0000,0000,,junto com o resto da família,
+Dialogue: 0,0:07:16.34,0:07:19.01,fonte legenda,,0000,0000,0000,,e o Trunks voltou do futuro
+Dialogue: 0,0:07:19.01,0:07:22.52,fonte legenda,,0000,0000,0000,,avisar que derrotou os No. 17 e No. 18,
+Dialogue: 0,0:07:22.52,0:07:25.85,fonte legenda,,0000,0000,0000,,então essa é uma oportunidade de ouro!
+Dialogue: 0,0:07:25.85,0:07:27.85,fonte legenda,,0000,0000,0000,,O que o Vegeta está fazendo?
+Dialogue: 0,0:07:27.85,0:07:32.26,fonte legenda,,0000,0000,0000,,Aquele homem é inútil! É quase como\Nse ele tivesse perdido o desejo pela luta,
+Dialogue: 0,0:07:32.26,0:07:35.19,fonte legenda,,0000,0000,0000,,e agora passa o dia só pensando.
+Dialogue: 0,0:07:36.20,0:07:39.03,fonte legenda,,0000,0000,0000,,Isso é porque o Goku-san morreu.
+Dialogue: 0,0:07:41.87,0:07:44.20,fonte legenda,,0000,0000,0000,,Ten-san, pegue eles!
+Dialogue: 0,0:07:44.87,0:07:47.54,fonte legenda,,0000,0000,0000,,Você também, Kuririn, aproveita.
+Dialogue: 0,0:07:47.54,0:07:51.31,fonte legenda,,0000,0000,0000,,Oolong,\Nnão há nenhuma garota peituda por aqui!
+Dialogue: 0,0:07:53.21,0:07:55.15,fonte legenda,,0000,0000,0000,,Vovô, para o que está olhando?
+Dialogue: 0,0:07:55.15,0:07:57.22,fonte legenda,,0000,0000,0000,,Viemos assistir um\Ntorneio de artes marciais, certo?
+Dialogue: 0,0:07:57.22,0:07:59.19,fonte legenda,,0000,0000,0000,,Não precisamos assistir
+Dialogue: 0,0:07:59.19,0:08:01.82,fonte legenda,,0000,0000,0000,,para saber que\NGohan ou Trunks obviamente vão ganhar.
+Dialogue: 0,0:08:01.82,0:08:05.95,fonte legenda,,0000,0000,0000,,É por isso que estou procurando\Ngarotas com seios grandes e calcinhas!
+Dialogue: 0,0:08:09.16,0:08:10.99,fonte legenda,,0000,0000,0000,,Lá estão elas!
+Dialogue: 0,0:08:12.16,0:08:13.17,fonte legenda,,0000,0000,0000,,"Balança"
+Dialogue: 0,0:08:13.17,0:08:14.15,fonte legenda,,0000,0000,0000,,"Sacode"
+Dialogue: 0,0:08:22.17,0:08:25.85,fonte legenda,,0000,0000,0000,,Isso é mais incrível que o Tenkaichi Budokai!
+Dialogue: 0,0:08:25.85,0:08:28.51,fonte legenda,,0000,0000,0000,,Você queria participar, não é?
+Dialogue: 0,0:08:28.51,0:08:31.97,fonte legenda,,0000,0000,0000,,Mas você está morto agora.
+Dialogue: 0,0:08:32.52,0:08:36.35,fonte legenda,,0000,0000,0000,,Uma luta entre Gohan\Ne Trunks seria com certeza incrível!
+Dialogue: 0,0:08:45.87,0:08:50.34,fonte legenda,,0000,0000,0000,,Nunca pensei que Gohan\Ne os outros iriam participar.
+Dialogue: 0,0:08:50.34,0:08:53.54,fonte legenda,,0000,0000,0000,,E eu peguei dinheiro\Nemprestado para pegar o avião.
+Dialogue: 0,0:08:53.54,0:08:56.21,fonte legenda,,0000,0000,0000,,E eu ia ganhar cem milhões de Zeni também.
+Dialogue: 0,0:08:56.21,0:08:59.41,fonte legenda,,0000,0000,0000,,Parece que o Yamucha-san\Nnão está com vontade de lutar.
+Dialogue: 0,0:08:59.41,0:09:00.81,fonte legenda,,0000,0000,0000,,Não tem jeito, não é?
+Dialogue: 0,0:09:00.81,0:09:03.82,fonte legenda,,0000,0000,0000,,Ele desistiu de ganhar, afinal.
+Dialogue: 0,0:09:03.82,0:09:06.82,fonte legenda,,0000,0000,0000,,Isso mesmo. Ele não pode derrotar Trunks.
+Dialogue: 0,0:09:06.82,0:09:08.68,fonte legenda,,0000,0000,0000,,Ou Gohan-chan, também!
+Dialogue: 0,0:09:23.84,0:09:25.46,fonte legenda,,0000,0000,0000,,Desclassificado!
+Dialogue: 0,0:09:26.84,0:09:28.83,fonte legenda,,0000,0000,0000,,Já acabou?
+Dialogue: 0,0:09:36.82,0:09:38.42,fonte legenda,,0000,0000,0000,,Há muito tempo,
+Dialogue: 0,0:09:38.42,0:09:42.79,fonte legenda,,0000,0000,0000,,Meu pai também participou do Tenkaichi\NBudokai e melhorou suas habilidades,
+Dialogue: 0,0:09:42.79,0:09:44.31,fonte legenda,,0000,0000,0000,,então eu também vou!
+Dialogue: 0,0:09:45.19,0:09:48.18,fonte legenda,,0000,0000,0000,,O participante\NSon Gohan passou pelas preliminares!
+Dialogue: 0,0:09:54.53,0:09:57.43,fonte legenda,,0000,0000,0000,,O participante\NTrunks passou pelas preliminares!
+Dialogue: 0,0:10:16.56,0:10:17.56,fonte legenda,,0000,0000,0000,,Por quê?
+Dialogue: 0,0:10:17.56,0:10:19.85,fonte legenda,,0000,0000,0000,,O participante\NKuririn passou pelas preliminares!
+Dialogue: 0,0:10:23.56,0:10:26.09,fonte legenda,,0000,0000,0000,,O participante\NPiccolo passou pelas preliminares!
+Dialogue: 0,0:10:30.57,0:10:33.24,fonte legenda,,0000,0000,0000,,O participante\NTenshinhan passou pelas preliminares!
+Dialogue: 0,0:10:33.24,0:10:34.40,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:10:38.58,0:10:43.07,fonte legenda,,0000,0000,0000,,Participante Dosukoi, participante Udo,\Ne participante Kung Foon passaram!
+Dialogue: 0,0:10:48.59,0:10:50.19,fonte legenda,,0000,0000,0000,,Mister Satan,
+Dialogue: 0,0:10:50.19,0:10:52.42,fonte legenda,,0000,0000,0000,,tendo visto as preliminares,\Nquais são suas impressões?
+Dialogue: 0,0:10:54.26,0:10:58.33,fonte legenda,,0000,0000,0000,,Nenhum deles treinou o suficiente...
+Dialogue: 0,0:10:58.46,0:11:00.17,fonte legenda,,0000,0000,0000,,"Dosukoi vs Kung Foon", "Piccolo vs Kuririn"\N"Tenshinhan vs Trunks", "Udo vs Son Gohan"
+Dialogue: 0,0:11:00.17,0:11:00.77,fonte legenda,,0000,0000,0000,,As semifinais terão os 8 participantes...
+Dialogue: 0,0:11:00.77,0:11:03.60,fonte legenda,,0000,0000,0000,,que passaram pelas preliminares\Nlutando um-contra-um.
+Dialogue: 0,0:11:04.54,0:11:07.51,fonte legenda,,0000,0000,0000,,Com Piccolo como\Noponente, não estou com sorte.
+Dialogue: 0,0:11:07.51,0:11:09.87,fonte legenda,,0000,0000,0000,,Droga, isso é ruim!
+Dialogue: 0,0:11:11.21,0:11:12.88,fonte legenda,,0000,0000,0000,,A primeira luta das semifinais será
+Dialogue: 0,0:11:12.88,0:11:16.21,fonte legenda,,0000,0000,0000,,entre os participantes Son Gohan e Udo.
+Dialogue: 0,0:11:19.55,0:11:23.89,fonte legenda,,0000,0000,0000,,O que é isso, um garoto como rival?\NNão é o meu dia.
+Dialogue: 0,0:11:23.89,0:11:25.06,fonte legenda,,0000,0000,0000,,Hey, garoto!
+Dialogue: 0,0:11:25.06,0:11:28.15,fonte legenda,,0000,0000,0000,,Não vou dar mole\Nsó porque você é pequeno, entendeu?
+Dialogue: 0,0:11:29.23,0:11:31.56,fonte legenda,,0000,0000,0000,,Certo, entendi!
+Dialogue: 0,0:11:31.56,0:11:34.57,fonte legenda,,0000,0000,0000,,O quê? Está me fazendo de idiota?
+Dialogue: 0,0:11:34.57,0:11:36.23,fonte legenda,,0000,0000,0000,,Seu...
+Dialogue: 0,0:11:40.91,0:11:43.00,fonte legenda,,0000,0000,0000,,Isso mesmo, Gohan-chan!
+Dialogue: 0,0:11:46.58,0:11:48.45,fonte legenda,,0000,0000,0000,,A segunda luta das semifinais será
+Dialogue: 0,0:11:48.45,0:11:52.04,fonte legenda,,0000,0000,0000,,entre os participantes Trunks e Tenshinhan.
+Dialogue: 0,0:11:53.92,0:11:58.48,fonte legenda,,0000,0000,0000,,Trunks! Não pegue leve comigo!
+Dialogue: 0,0:11:59.26,0:12:00.25,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:12:12.54,0:12:14.54,fonte legenda,,0000,0000,0000,,E-Eles estão flutuando!
+Dialogue: 0,0:12:14.54,0:12:16.87,fonte legenda,,0000,0000,0000,,Eu também acho!
+Dialogue: 0,0:12:22.55,0:12:24.11,LEGENDA PARA PODERES,,0000,0000,0000,,Kikouhou!!
+Dialogue: 0,0:12:55.58,0:12:58.92,fonte legenda,,0000,0000,0000,,M-Mister Satan, como pode isso?
+Dialogue: 0,0:12:58.92,0:13:00.69,fonte legenda,,0000,0000,0000,,Hmph! Isso é tudo truque!
+Dialogue: 0,0:13:00.69,0:13:02.59,fonte legenda,,0000,0000,0000,,Como a troca\Nrápida de roupas numa peça de teatro!
+Dialogue: 0,0:13:02.59,0:13:04.02,fonte legenda,,0000,0000,0000,,Algo assim!
+Dialogue: 0,0:13:05.19,0:13:10.03,fonte legenda,,0000,0000,0000,,O-O que esses caras\Nestão fazendo em um torneio familiar desses?
+Dialogue: 0,0:13:13.20,0:13:15.36,fonte legenda,,0000,0000,0000,,Droga, que inútil!
+Dialogue: 0,0:13:30.22,0:13:32.68,fonte legenda,,0000,0000,0000,,O participante Trunks vence!
+Dialogue: 0,0:13:48.23,0:13:50.24,fonte legenda,,0000,0000,0000,,Tenho que fazer alguma coisa!
+Dialogue: 0,0:13:50.24,0:13:53.73,fonte legenda,,0000,0000,0000,,Nossa, Mister Satan, você está pálido.
+Dialogue: 0,0:13:54.57,0:13:57.58,fonte legenda,,0000,0000,0000,,M-Meu estômago dói! Yow-ow-ow-ow!
+Dialogue: 0,0:13:57.58,0:14:02.51,fonte legenda,,0000,0000,0000,,Isso não é bom! Produtor, leve\No Mister Satan para a enfermaria.
+Dialogue: 0,0:14:02.51,0:14:05.85,fonte legenda,,0000,0000,0000,,E-Eu irei sozinho. E-Eu já volto...
+Dialogue: 0,0:14:05.85,0:14:07.84,fonte legenda,,0000,0000,0000,,Yow-ow-ow-ow!
+Dialogue: 0,0:14:11.02,0:14:14.05,fonte legenda,,0000,0000,0000,,É melhor eu cair fora.
+Dialogue: 0,0:14:15.19,0:14:18.86,fonte legenda,,0000,0000,0000,,Dizem que só idiotas ficam onde anjos\Ntêm medo de pisar... Deve ser algum ditado.
+Dialogue: 0,0:14:18.86,0:14:21.87,fonte legenda,,0000,0000,0000,,Oh, é o Mister Satan!
+Dialogue: 0,0:14:21.87,0:14:29.21,fonte legenda,,0000,0000,0000,,Satan! Satan!
+Dialogue: 0,0:14:32.54,0:14:37.98,fonte legenda,,0000,0000,0000,,N-Não é hora de eu fazer isso!
+Dialogue: 0,0:14:49.23,0:14:51.40,fonte legenda,,0000,0000,0000,,A terceira luta das semifinais será
+Dialogue: 0,0:14:51.40,0:14:53.86,fonte legenda,,0000,0000,0000,,entre os participantes Kuririn e Piccolo.
+Dialogue: 0,0:14:56.24,0:15:01.17,fonte legenda,,0000,0000,0000,,Piccolo não\Nusaria seu Makankosappo em mim, usaria?
+Dialogue: 0,0:15:01.17,0:15:07.08,fonte legenda,,0000,0000,0000,,Piccolo-san! Boa sorte! Piccolo-san!
+Dialogue: 0,0:15:07.85,0:15:12.18,fonte legenda,,0000,0000,0000,,Gohan, não precisa torcer pelo Piccolo.
+Dialogue: 0,0:15:12.18,0:15:15.19,fonte legenda,,0000,0000,0000,,Afinal, não tem como o Kuririn ganhar.
+Dialogue: 0,0:15:15.19,0:15:16.75,fonte legenda,,0000,0000,0000,,Droga!
+Dialogue: 0,0:15:17.52,0:15:20.98,fonte legenda,,0000,0000,0000,,Se é assim que vai ser,\Nentão eu vou com tudo!
+Dialogue: 0,0:15:28.53,0:15:31.24,fonte legenda,,0000,0000,0000,,Por que a pose de luta indiferente!?
+Dialogue: 0,0:15:31.24,0:15:36.07,fonte legenda,,0000,0000,0000,,Ele está fazendo isso para me fazer de\Nidiota! Ele está mesmo me fazendo de idiota!
+Dialogue: 0,0:15:37.54,0:15:40.10,fonte legenda,,0000,0000,0000,,Piccolo!!
+Dialogue: 0,0:15:52.56,0:15:56.23,fonte legenda,,0000,0000,0000,,Pensei que fosse ter gente\Ncom um pouco de força de vontade.
+Dialogue: 0,0:15:56.23,0:15:59.43,fonte legenda,,0000,0000,0000,,Não vou ficar aqui e perder tempo com vocês.
+Dialogue: 0,0:16:12.51,0:16:15.08,fonte legenda,,0000,0000,0000,,Por Piccolo ter desistido da luta,
+Dialogue: 0,0:16:15.08,0:16:17.48,fonte legenda,,0000,0000,0000,,O participante Kuririn vence!
+Dialogue: 0,0:16:18.18,0:16:21.12,fonte legenda,,0000,0000,0000,,Sorte! Bônus, bônus!
+Dialogue: 0,0:16:21.85,0:16:24.82,fonte legenda,,0000,0000,0000,,O participante Dosukoi\Npor pouco vira o jogo e vence!
+Dialogue: 0,0:16:24.82,0:16:28.86,fonte legenda,,0000,0000,0000,,Os quatro participantes que\Nprosseguirão para as finais foram decididos!
+Dialogue: 0,0:16:28.86,0:16:32.20,fonte legenda,,0000,0000,0000,,Kaio-sama, qual é a situação?
+Dialogue: 0,0:16:32.20,0:16:36.87,fonte legenda,,0000,0000,0000,,Ah, Gohan e os\Noutros estão vencendo tranqüilamente.
+Dialogue: 0,0:16:36.87,0:16:39.06,fonte legenda,,0000,0000,0000,,É o esperado, não é?
+Dialogue: 0,0:16:49.88,0:16:56.38,fonte legenda,,0000,0000,0000,,Que pena, não tinha como meus discípulos\Nvencerem aqueles caras exagerados...
+Dialogue: 0,0:16:59.56,0:17:02.25,fonte legenda,,0000,0000,0000,,Consegui! Lá está a saída!
+Dialogue: 0,0:17:09.50,0:17:10.90,fonte legenda,,0000,0000,0000,,Mister Satan!
+Dialogue: 0,0:17:13.51,0:17:18.18,fonte legenda,,0000,0000,0000,,A enfermaria é daquele lado.\NPor aqui é a saída da Battle Island.
+Dialogue: 0,0:17:18.18,0:17:22.51,fonte legenda,,0000,0000,0000,,Tudo bem!\NMeu estômago está doendo muito...
+Dialogue: 0,0:17:22.51,0:17:26.85,fonte legenda,,0000,0000,0000,,Seria melhor se\Nmeu médico particular examinasse.
+Dialogue: 0,0:17:26.85,0:17:28.85,fonte legenda,,0000,0000,0000,,M-Mas e quanto ao Mr. Money?
+Dialogue: 0,0:17:28.85,0:17:32.12,fonte legenda,,0000,0000,0000,,Tudo bem, tudo bem, eu voltarei logo.
+Dialogue: 0,0:17:32.12,0:17:36.56,fonte legenda,,0000,0000,0000,,Só vou correr pela\Nponte, aqui, e correr... correr...
+Dialogue: 0,0:17:37.20,0:17:39.10,fonte legenda,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:40.87,0:17:43.77,fonte legenda,,0000,0000,0000,,Estou começando a ficar tonto, também?
+Dialogue: 0,0:17:46.87,0:17:50.54,fonte legenda,,0000,0000,0000,,Sumiu! Sumiu! Sumiu!\NA ponte sumiu!
+Dialogue: 0,0:17:50.54,0:17:59.89,fonte legenda,,0000,0000,0000,,Satan! Satan!
+Dialogue: 0,0:17:59.89,0:18:04.99,fonte legenda,,0000,0000,0000,,Para as finais, estamos\Nmudando a arena para a Battle Island II.
+Dialogue: 0,0:18:04.99,0:18:06.69,fonte legenda,,0000,0000,0000,,Estamos indo para lá no momento.
+Dialogue: 0,0:18:09.83,0:18:12.83,fonte legenda,,0000,0000,0000,,Com a batalha na Battle Island II,
+Dialogue: 0,0:18:12.83,0:18:14.80,fonte legenda,,0000,0000,0000,,nós já estamos prontos
+Dialogue: 0,0:18:14.80,0:18:17.17,fonte legenda,,0000,0000,0000,,para as finais\Ncom esses 4 poderosos competidores,
+Dialogue: 0,0:18:17.17,0:18:19.16,fonte legenda,,0000,0000,0000,,e com o desafio ao Mr. Satan como prêmio!
+Dialogue: 0,0:18:29.85,0:18:33.08,fonte legenda,,0000,0000,0000,,Gohan-chan! Acabe com eles!
+Dialogue: 0,0:18:33.52,0:18:35.19,fonte legenda,,0000,0000,0000,,Isso é vergonhoso.
+Dialogue: 0,0:18:35.19,0:18:39.59,fonte legenda,,0000,0000,0000,,Trunks! Leve-me com você naquele\Ntour das fontes termais do mundo!
+Dialogue: 0,0:18:42.19,0:18:45.49,fonte legenda,,0000,0000,0000,,Kuririn! Agüente firme o máximo possível!
+Dialogue: 0,0:18:50.54,0:18:52.87,fonte legenda,,0000,0000,0000,,E agora, vou explicar as regras.
+Dialogue: 0,0:18:52.87,0:18:55.97,fonte legenda,,0000,0000,0000,,Há quatro túneis\Nsubterrâneos construídos especialmente aqui,
+Dialogue: 0,0:18:55.97,0:18:58.21,fonte legenda,,0000,0000,0000,,cada um leva a Battle\NZones do norte, sul, leste ou oeste.
+Dialogue: 0,0:18:58.21,0:18:59.85,fonte legenda,,0000,0000,0000,,Os participantes tirarão a sorte
+Dialogue: 0,0:18:59.85,0:19:02.15,fonte legenda,,0000,0000,0000,,para determinar quem\Nvai usar qual máquina para cada túnel...
+Dialogue: 0,0:19:02.15,0:19:05.15,fonte legenda,,0000,0000,0000,,até chegarem\Nàs suas respectivas Battle Zones.
+Dialogue: 0,0:19:05.15,0:19:08.55,fonte legenda,,0000,0000,0000,,Assim que chegarem, guerreiros fenomenais
+Dialogue: 0,0:19:08.55,0:19:11.16,fonte legenda,,0000,0000,0000,,das galáxias do norte, sul, leste e oeste,
+Dialogue: 0,0:19:11.16,0:19:12.59,fonte legenda,,0000,0000,0000,,que vieram especialmente para participar
+Dialogue: 0,0:19:12.59,0:19:14.99,fonte legenda,,0000,0000,0000,,do Grande Tenkaichi Budokai,\Nestarão esperando por eles!
+Dialogue: 0,0:19:17.16,0:19:19.03,fonte legenda,,0000,0000,0000,,E depois de vencer esse guerreiro,
+Dialogue: 0,0:19:19.03,0:19:20.83,fonte legenda,,0000,0000,0000,,quem subir no elevador atrás deles
+Dialogue: 0,0:19:20.83,0:19:25.34,fonte legenda,,0000,0000,0000,,e for o primeiro de volta aqui,\Nno nível mais baixo da arena central,
+Dialogue: 0,0:19:25.34,0:19:29.90,fonte legenda,,0000,0000,0000,,será o glorioso vencedor,\Ne irá desafiar o Mr. Satan!
+Dialogue: 0,0:19:32.51,0:19:35.11,fonte legenda,,0000,0000,0000,,Já que não tenho de\Nlutar contra Gohan diretamente,
+Dialogue: 0,0:19:35.11,0:19:38.24,fonte legenda,,0000,0000,0000,,ainda tenho boas chances de vencer!
+Dialogue: 0,0:19:40.19,0:19:42.82,fonte legenda,,0000,0000,0000,,Tudo o que preciso fazer\Né ser o primeiro a voltar, certo?
+Dialogue: 0,0:19:43.19,0:19:47.86,fonte legenda,,0000,0000,0000,,O round final começa agora!\N10... 9...
+Dialogue: 0,0:19:47.86,0:19:49.53,fonte legenda,,0000,0000,0000,,8...
+Dialogue: 0,0:19:49.53,0:19:50.86,fonte legenda,,0000,0000,0000,,7...
+Dialogue: 0,0:19:50.86,0:19:52.53,fonte legenda,,0000,0000,0000,,6...
+Dialogue: 0,0:19:52.53,0:19:53.87,fonte legenda,,0000,0000,0000,,5...
+Dialogue: 0,0:19:53.87,0:19:55.20,fonte legenda,,0000,0000,0000,,4...
+Dialogue: 0,0:19:55.20,0:19:56.87,fonte legenda,,0000,0000,0000,,3...
+Dialogue: 0,0:19:56.87,0:19:58.20,fonte legenda,,0000,0000,0000,,2...
+Dialogue: 0,0:19:58.20,0:19:59.87,fonte legenda,,0000,0000,0000,,1...
+Dialogue: 0,0:19:59.87,0:20:01.17,fonte legenda,,0000,0000,0000,,0!!
+Dialogue: 0,0:20:12.22,0:20:17.02,fonte legenda,,0000,0000,0000,,Por favor, apreciem as\Nlutas na Battle Zone pelos monitores.
+Dialogue: 0,0:20:29.23,0:20:31.86,fonte legenda,,0000,0000,0000,,E-Eu vou me molhar!
+Dialogue: 0,0:21:18.55,0:21:21.95,fonte legenda,,0000,0000,0000,,Então essa é a Battle Zone, hein?
+Dialogue: 0,0:21:31.90,0:21:34.37,fonte legenda,,0000,0000,0000,,Você é meu oponente!?
+Dialogue: 0,0:21:37.90,0:21:42.24,fonte legenda,,0000,0000,0000,,Eu já encarei Piccolo hoje,\Nminha sorte está aumentando.
+Dialogue: 0,0:21:42.24,0:21:47.27,fonte legenda,,0000,0000,0000,,É muito azar seu ter de lutar contra mim.
+Dialogue: 0,0:21:50.25,0:21:54.08,fonte legenda,,0000,0000,0000,,E-ela é tão bonita!
+Dialogue: 0,0:21:55.59,0:21:57.02,fonte legenda,,0000,0000,0000,,M-Mesmo assim,
+Dialogue: 0,0:21:57.02,0:21:59.59,fonte legenda,,0000,0000,0000,,não vou pegar leve\Nsó porque você é uma mulher!
+Dialogue: 0,0:21:59.59,0:22:02.03,fonte legenda,,0000,0000,0000,,Eu serei o primeiro a voltar!
+Dialogue: 0,0:22:24.88,0:22:27.65,fonte legenda,,0000,0000,0000,,Q-Quem é você!?
+Dialogue: 0,0:22:32.89,0:22:34.95,fonte legenda,,0000,0000,0000,,K-Kuririn!
+Dialogue: 0,0:22:43.23,0:22:45.90,fonte legenda,,0000,0000,0000,,Dosukoi! Dosukoi!
+Dialogue: 0,0:22:45.90,0:22:48.57,fonte legenda,,0000,0000,0000,,Dosukoi! Dosukoi!
+Dialogue: 0,0:22:48.57,0:22:53.37,fonte legenda,,0000,0000,0000,,Dosukoi... Dosu... koi...
+Dialogue: 0,0:23:07.19,0:23:09.06,fonte legenda,,0000,0000,0000,,Ele o matou!
+Dialogue: 0,0:23:24.54,0:23:26.88,fonte legenda,,0000,0000,0000,,O que está acontecendo aqui!?
+Dialogue: 0,0:23:26.88,0:23:28.88,fonte legenda,,0000,0000,0000,,Querido, isso está indo muito longe!
+Dialogue: 0,0:23:28.88,0:23:32.55,fonte legenda,,0000,0000,0000,,P-Produtor, o que isso significa!?
+Dialogue: 0,0:23:32.55,0:23:35.65,fonte legenda,,0000,0000,0000,,E-Eu não convidei aqueles caras!
+Dialogue: 0,0:23:35.65,0:23:39.89,fonte legenda,,0000,0000,0000,,O Guerreiros Galácticos que eu\Narrangei eram pupilos do Mr. Satan!
+Dialogue: 0,0:23:39.89,0:23:41.69,fonte legenda,,0000,0000,0000,,Como eles\Npodem ter trocado de lugar tão rápido?
+Dialogue: 0,0:23:42.56,0:23:43.86,fonte legenda,,0000,0000,0000,,Mamãe!
+Dialogue: 0,0:23:45.56,0:23:46.53,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:24:11.52,0:24:16.46,fonte legenda,,0000,0000,0000,,Você não está sendo negligente!?\NIsso é apenas um jogo!
+Dialogue: 0,0:24:16.46,0:24:18.09,fonte legenda,,0000,0000,0000,,Não é para nos matarmos!
+Dialogue: 0,0:24:28.21,0:24:30.00,fonte legenda,,0000,0000,0000,,Quem é você!?
+Dialogue: 0,0:24:34.55,0:24:37.81,fonte legenda,,0000,0000,0000,,Seria suficiente se eu dissesse\Napenas que sou um Guerreiro Galáctico?
+Dialogue: 0,0:25:52.56,0:25:55.89,fonte legenda,,0000,0000,0000,,Pare! Esse é um torneio de artes marciais!
+Dialogue: 0,0:25:55.89,0:25:58.26,fonte legenda,,0000,0000,0000,,Está dizendo que isso é um jogo?
+Dialogue: 0,0:26:04.84,0:26:06.60,fonte legenda,,0000,0000,0000,,O que está acontecendo?
+Dialogue: 0,0:26:12.18,0:26:16.48,fonte legenda,,0000,0000,0000,,Mister Satan!\NTudo depende do seu poder agora!
+Dialogue: 0,0:26:16.48,0:26:18.85,fonte legenda,,0000,0000,0000,,Por favor, nos ajude! Nós imploramos!
+Dialogue: 0,0:26:18.85,0:26:22.52,fonte legenda,,0000,0000,0000,,A-Apenas esperem um segundo!\NMeu estômago ainda dói!
+Dialogue: 0,0:26:22.52,0:26:26.66,fonte legenda,,0000,0000,0000,,Se eu demorar um pouco aqui,\Naqueles caras devem derrotá-los por mim.
+Dialogue: 0,0:26:26.66,0:26:28.89,fonte legenda,,0000,0000,0000,,Afinal de contas, eles derrotaram Cell.
+Dialogue: 0,0:26:54.89,0:26:56.98,fonte legenda,,0000,0000,0000,,Você já terminou?
+Dialogue: 0,0:27:02.83,0:27:04.56,fonte legenda,,0000,0000,0000,,Morra!!
+Dialogue: 0,0:27:37.20,0:27:39.25,fonte legenda,,0000,0000,0000,,O-O quê é isso?
+Dialogue: 0,0:27:42.20,0:27:43.93,fonte legenda,,0000,0000,0000,,É um Ki incrível!
+Dialogue: 0,0:27:48.21,0:27:51.54,fonte legenda,,0000,0000,0000,,Mister Satan! Apresse-se! Apresse-se!
+Dialogue: 0,0:27:51.54,0:27:55.88,fonte legenda,,0000,0000,0000,,Não seja tão impaciente!\NEstou me limpando agora!
+Dialogue: 0,0:27:55.88,0:28:16.50,fonte legenda,,0000,0000,0000,,Satan! Satan!\NSatan! Satan!
+Dialogue: 0,0:28:16.50,0:28:18.66,fonte legenda,,0000,0000,0000,,Que bom!
+Dialogue: 0,0:28:22.51,0:28:24.58,fonte legenda,,0000,0000,0000,,Senhoras e senhores, por favor, acalmem-se!
+Dialogue: 0,0:28:24.58,0:28:28.85,fonte legenda,,0000,0000,0000,,Nosso herói, Mister Satan, está se\Npreparando para acabar com esses caras maus!
+Dialogue: 0,0:28:28.85,0:28:30.75,fonte legenda,,0000,0000,0000,,Tudo vai ficar bem agora!
+Dialogue: 0,0:28:30.75,0:28:35.08,fonte legenda,,0000,0000,0000,,Por favor, observem os\Nmonitores para ver o Mr. Satan em ação!
+Dialogue: 0,0:28:40.19,0:28:42.19,fonte legenda,,0000,0000,0000,,Apresse-se e liga essa coisa!
+Dialogue: 0,0:28:42.19,0:28:42.86,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:28:42.86,0:28:45.19,fonte legenda,,0000,0000,0000,,Espere! Eu não pus o cinto de segurança!
+Dialogue: 0,0:28:45.86,0:28:48.46,fonte legenda,,0000,0000,0000,,A Terra está com grandes problemas.
+Dialogue: 0,0:28:49.53,0:28:53.14,fonte legenda,,0000,0000,0000,,Quem teria imaginado que Bojack...
+Dialogue: 0,0:28:53.14,0:28:54.87,fonte legenda,,0000,0000,0000,,Bojack?
+Dialogue: 0,0:28:54.87,0:28:59.08,fonte legenda,,0000,0000,0000,,Há muito tempo,\Nele era um matador, cheio de Ki maligno,
+Dialogue: 0,0:28:59.08,0:29:01.15,fonte legenda,,0000,0000,0000,,que vagava pelas\Ngaláxias do norte, sul, leste e oeste,
+Dialogue: 0,0:29:01.15,0:29:04.82,fonte legenda,,0000,0000,0000,,tentando destruir cada uma delas.
+Dialogue: 0,0:29:04.82,0:29:06.82,fonte legenda,,0000,0000,0000,,Você quer dizer alguém como Piccolo Daimao?
+Dialogue: 0,0:29:06.82,0:29:08.82,fonte legenda,,0000,0000,0000,,Ele era um demônio sedento por sangue,
+Dialogue: 0,0:29:08.82,0:29:12.16,fonte legenda,,0000,0000,0000,,com um Ki maligno\Nmuito maior do que o de Piccolo Daimao.
+Dialogue: 0,0:29:12.16,0:29:15.76,fonte legenda,,0000,0000,0000,,Com isso, nós, os quatro\NKaios, do norte, sul, leste e oeste,
+Dialogue: 0,0:29:15.76,0:29:17.16,fonte legenda,,0000,0000,0000,,juntamos nossos poderes,
+Dialogue: 0,0:29:17.16,0:29:20.83,fonte legenda,,0000,0000,0000,,e o selamos\Nnum planeta nos confins da galáxia.
+Dialogue: 0,0:29:20.83,0:29:23.17,fonte legenda,,0000,0000,0000,,Selaram-no em um\Nplaneta nos confins da galáxia?
+Dialogue: 0,0:29:23.17,0:29:25.70,fonte legenda,,0000,0000,0000,,Goku, isso é sua culpa.
+Dialogue: 0,0:29:25.70,0:29:30.14,fonte legenda,,0000,0000,0000,,Destruindo o meu\Nplaneta durante a luta contra Cell,
+Dialogue: 0,0:29:30.14,0:29:34.18,fonte legenda,,0000,0000,0000,,e me fazendo morrer, o selo foi quebrado.
+Dialogue: 0,0:29:34.18,0:29:37.85,fonte legenda,,0000,0000,0000,,Mas, pensar que\NBojack teria interesse na Terra...
+Dialogue: 0,0:29:37.85,0:29:41.44,fonte legenda,,0000,0000,0000,,Mas, Kaio-sama, a Terra ainda tem Gohan!
+Dialogue: 0,0:29:49.53,0:29:51.59,fonte legenda,,0000,0000,0000,,K-Kuririn-san!
+Dialogue: 0,0:30:00.20,0:30:03.21,fonte legenda,,0000,0000,0000,,Trunks-san! Kuririn-san!
+Dialogue: 0,0:30:03.21,0:30:07.04,fonte legenda,,0000,0000,0000,,Ei, garoto, a Terra é um bom planeta, não é?
+Dialogue: 0,0:30:23.56,0:30:26.00,fonte legenda,,0000,0000,0000,,Que poder de luta incrível!
+Dialogue: 0,0:30:28.57,0:30:30.33,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:30:32.24,0:30:37.26,fonte legenda,,0000,0000,0000,,S-são esses os caras\Nque mataram os quatro Guerreiros Galácticos?
+Dialogue: 0,0:30:40.91,0:30:45.14,fonte legenda,,0000,0000,0000,,De agora em diante,\Nesse planeta pertence ao Bojack-sama.
+Dialogue: 0,0:30:48.92,0:30:50.25,fonte legenda,,0000,0000,0000,,Ridículo!
+Dialogue: 0,0:30:50.25,0:30:52.92,fonte legenda,,0000,0000,0000,,Vocês pensam que\Nnós vamos deixar você fazer isso?
+Dialogue: 0,0:30:52.92,0:30:56.59,fonte legenda,,0000,0000,0000,,Bojack-sama é invencível na galáxia inteira!
+Dialogue: 0,0:30:56.59,0:30:59.30,fonte legenda,,0000,0000,0000,,A Terra, o maior planeta na galáxia do norte...
+Dialogue: 0,0:30:59.30,0:31:01.20,fonte legenda,,0000,0000,0000,,o mais belo de todos...
+Dialogue: 0,0:31:01.20,0:31:05.26,fonte legenda,,0000,0000,0000,,...é ele quem merece governá-la.
+Dialogue: 0,0:31:06.54,0:31:09.87,fonte legenda,,0000,0000,0000,,Nós mataremos qualquer um que se opuser.
+Dialogue: 0,0:31:09.87,0:31:12.97,fonte legenda,,0000,0000,0000,,Não nos subestime!
+Dialogue: 0,0:31:41.41,0:31:42.87,fonte legenda,,0000,0000,0000,,Vocês pagarão por isso!
+Dialogue: 0,0:32:38.90,0:32:40.57,fonte legenda,,0000,0000,0000,,Nada mal, garoto.
+Dialogue: 0,0:32:40.57,0:32:43.43,fonte legenda,,0000,0000,0000,,Mas com esse nível de\Npoder de luta, você nunca nos vencerá,
+Dialogue: 0,0:32:43.43,0:32:45.49,fonte legenda,,0000,0000,0000,,não importa o quanto tente!
+Dialogue: 0,0:33:06.46,0:33:07.53,fonte legenda,,0000,0000,0000,,Isso será um problema!
+Dialogue: 0,0:33:07.53,0:33:11.52,fonte legenda,,0000,0000,0000,,Gohan! Fique nervoso!\NMostre a eles seu verdadeiro poder!
+Dialogue: 0,0:33:32.55,0:33:34.92,fonte legenda,,0000,0000,0000,,D-droga...
+Dialogue: 0,0:33:58.58,0:34:00.04,fonte legenda,,0000,0000,0000,,Piccolo-san!
+Dialogue: 0,0:34:01.85,0:34:05.54,fonte legenda,,0000,0000,0000,,Parece que alguém\Ncom um pouco de coragem apareceu.
+Dialogue: 0,0:34:39.22,0:34:40.88,fonte legenda,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:34:44.56,0:34:46.55,fonte legenda,,0000,0000,0000,,Piccolo-san!
+Dialogue: 0,0:34:53.56,0:34:56.97,fonte legenda,,0000,0000,0000,,Eu vou fazê-lo pagar pelo que fez antes!
+Dialogue: 0,0:35:42.88,0:35:44.55,fonte legenda,,0000,0000,0000,,Pai!
+Dialogue: 0,0:35:44.55,0:35:47.11,fonte legenda,,0000,0000,0000,,Eu vou derrotar esse aqui!
+Dialogue: 0,0:36:04.50,0:36:06.27,fonte legenda,,0000,0000,0000,,Vegeta-san!
+Dialogue: 0,0:36:29.53,0:36:32.13,fonte legenda,,0000,0000,0000,,Meu pai perdeu o\Ndesejo de lutar depois que Goku-san morreu,
+Dialogue: 0,0:36:32.13,0:36:37.16,fonte legenda,,0000,0000,0000,,mas, mesmo assim, ele está aqui, ajudando\Na mim e ao Gohan-san durante essa crise!
+Dialogue: 0,0:36:54.22,0:36:56.81,fonte legenda,,0000,0000,0000,,Trunks, fique fora disso!
+Dialogue: 0,0:37:07.16,0:37:10.17,fonte legenda,,0000,0000,0000,,Pai, você não\Npode fazer mais nada nas suas condições!
+Dialogue: 0,0:37:10.17,0:37:13.50,fonte legenda,,0000,0000,0000,,Pensei que tivesse\Nfalado para você ficar fora disso!
+Dialogue: 0,0:37:13.50,0:37:15.51,fonte legenda,,0000,0000,0000,,Piccolo-san!
+Dialogue: 0,0:37:15.51,0:37:20.71,fonte legenda,,0000,0000,0000,,N-Não se preocupe\Ncomigo, derrote aquele cara!
+Dialogue: 0,0:37:21.18,0:37:22.67,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:37:42.53,0:37:44.63,fonte legenda,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:37:45.87,0:37:47.80,fonte legenda,,0000,0000,0000,,Vegeta-san!
+Dialogue: 0,0:37:49.21,0:37:52.00,fonte legenda,,0000,0000,0000,,Você terá de me enfrentar!
+Dialogue: 0,0:37:57.88,0:38:00.48,fonte legenda,,0000,0000,0000,,- Gohan-chan!\N- Trunks!
+Dialogue: 0,0:38:00.48,0:38:03.49,fonte legenda,,0000,0000,0000,,E-Espere!\NEu ainda não pus o cinto de segurança!
+Dialogue: 0,0:38:03.49,0:38:04.82,fonte legenda,,0000,0000,0000,,Começar!
+Dialogue: 0,0:38:12.16,0:38:13.65,fonte legenda,,0000,0000,0000,,Tome isso!
+Dialogue: 0,0:38:57.21,0:39:02.98,fonte legenda,,0000,0000,0000,,Nossa telecinese criou uma zona de\Nconfinamento, comprometendo o seu poder!
+Dialogue: 0,0:39:02.98,0:39:07.58,fonte legenda,,0000,0000,0000,,Quanto mais se esforçar,\Nmais os seus poderes diminuem!
+Dialogue: 0,0:39:15.49,0:39:19.26,fonte legenda,,0000,0000,0000,,Garoto, você lutou bem. Eu o aprovo.
+Dialogue: 0,0:39:55.20,0:39:57.20,fonte legenda,,0000,0000,0000,,Satan-san!
+Dialogue: 0,0:39:57.20,0:40:00.20,fonte legenda,,0000,0000,0000,,Parece que sua\Nvida ganhou um pouco mais de tempo.
+Dialogue: 0,0:40:00.20,0:40:02.50,fonte legenda,,0000,0000,0000,,Maldito!
+Dialogue: 0,0:40:09.88,0:40:13.15,fonte legenda,,0000,0000,0000,,Kaio-sama, não há nada que possamos fazer!?
+Dialogue: 0,0:40:35.57,0:40:39.28,fonte legenda,,0000,0000,0000,,Você já consegue ver seu pai no outro mundo?
+Dialogue: 0,0:40:39.28,0:40:43.34,fonte legenda,,0000,0000,0000,,Vocês dois vão apreciar o\Nshow de carnificina que está para começar.
+Dialogue: 0,0:40:43.91,0:40:45.85,fonte legenda,,0000,0000,0000,,Kaio-sama!
+Dialogue: 0,0:41:12.88,0:41:15.67,fonte legenda,,0000,0000,0000,,P-Papai...
+Dialogue: 0,0:41:22.89,0:41:25.56,fonte legenda,,0000,0000,0000,,Eu não agüento mais isso!
+Dialogue: 0,0:41:25.56,0:41:28.96,fonte legenda,,0000,0000,0000,,Goku! Você está morto!
+Dialogue: 0,0:41:34.57,0:41:36.56,fonte legenda,,0000,0000,0000,,Você não vai escapar dessa!
+Dialogue: 0,0:41:37.23,0:41:38.72,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:41:47.91,0:41:52.87,fonte legenda,,0000,0000,0000,,Gohan! Mostre a ele o seu verdadeiro poder!
+Dialogue: 0,0:41:55.59,0:41:57.92,fonte legenda,,0000,0000,0000,,Papai...
+Dialogue: 0,0:41:57.92,0:42:03.38,fonte legenda,,0000,0000,0000,,Pare de agir como um bebê mimado!\NVocê precisa proteger a Terra!
+Dialogue: 0,0:42:08.87,0:42:10.86,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:42:21.88,0:42:24.58,fonte legenda,,0000,0000,0000,,O-O que foi aquilo!?
+Dialogue: 0,0:42:48.24,0:42:51.77,fonte legenda,,0000,0000,0000,,Meu pai me salvou!
+Dialogue: 0,0:43:12.20,0:43:16.86,fonte legenda,,0000,0000,0000,,E ele disse que você não iria escapar dessa!
+Dialogue: 0,0:43:19.87,0:43:24.00,fonte legenda,,0000,0000,0000,,Ele me disse para proteger a Terra!!
+Dialogue: 0,0:43:58.58,0:44:01.54,fonte legenda,,0000,0000,0000,,Bujin! Bido!
+Dialogue: 0,0:45:32.54,0:45:35.20,fonte legenda,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:45:58.23,0:46:01.50,fonte legenda,,0000,0000,0000,,M-Maldição!
+Dialogue: 0,0:46:01.50,0:46:05.49,fonte legenda,,0000,0000,0000,,Como um garoto como\Nvocê pôde fazer isso comigo!?
+Dialogue: 0,0:46:09.84,0:46:12.84,fonte legenda,,0000,0000,0000,,E então... E então...
+Dialogue: 0,0:46:12.84,0:46:16.01,fonte legenda,,0000,0000,0000,,...ele me disse para parar\Nde agir como um bebê mimado!
+Dialogue: 0,0:47:29.19,0:47:31.52,fonte legenda,,0000,0000,0000,,Gohan, você foi ótimo!
+Dialogue: 0,0:47:31.52,0:47:35.08,fonte legenda,,0000,0000,0000,,Goku, você agiu sem pensar, não foi?
+Dialogue: 0,0:47:36.19,0:47:38.86,fonte legenda,,0000,0000,0000,,Kaio-sama, eu fiz alguma coisa?
+Dialogue: 0,0:47:38.86,0:47:42.89,fonte legenda,,0000,0000,0000,,Ah, devo ter\Npiscado o olho, não tenho certeza.
+Dialogue: 0,0:47:49.87,0:47:53.54,fonte legenda,,0000,0000,0000,,"Satan salva a Terra pela 2ª vez", hein?
+Dialogue: 0,0:47:54.21,0:47:57.55,fonte legenda,,0000,0000,0000,,Só uma vez,\Neu gostaria de dar uma nele para ele falar.
+Dialogue: 0,0:47:57.55,0:47:59.95,fonte legenda,,0000,0000,0000,,Está tudo bem, não está?
+Dialogue: 0,0:47:59.95,0:48:03.49,fonte legenda,,0000,0000,0000,,Não tenha dúvida de que ele me ajudou.
+Dialogue: 0,0:48:03.49,0:48:07.42,fonte legenda,,0000,0000,0000,,No fim, ele defendeu\Nseu título de "Mais Idiota do Mundo"!
+Dialogue: 0,0:48:12.50,0:48:14.50,fonte legenda,,0000,0000,0000,,Papai?
+Dialogue: 0,0:48:14.50,0:48:17.17,fonte legenda,,0000,0000,0000,,Gohan, considerando tudo, você é especial!
+Dialogue: 0,0:48:17.17,0:48:18.70,fonte legenda,,0000,0000,0000,,Você derrotou aquele cara sozinho.
+Dialogue: 0,0:48:18.70,0:48:21.51,fonte legenda,,0000,0000,0000,,E nem mesmo Piccolo ou Vegeta\Nconseguiram ser páreo para ele!
+Dialogue: 0,0:48:21.51,0:48:23.84,fonte legenda,,0000,0000,0000,,Não foi sozinho. Meu pai...
+Dialogue: 0,0:48:23.84,0:48:25.51,fonte legenda,,0000,0000,0000,,Goku voltou a viver!?
+Dialogue: 0,0:48:25.51,0:48:28.18,fonte legenda,,0000,0000,0000,,Estou brincando! Estou brincando!
+Dialogue: 0,0:48:28.18,0:48:31.85,fonte legenda,,0000,0000,0000,,Seu miserável! Em uma hora dessas!?
+Dialogue: 0,0:48:31.85,0:48:37.05,fonte legenda,,0000,0000,0000,,"No segundo Grande Tenkaichi Budokai,\Nvocê também pode desafiar o Satan!"
+Dialogue: 0,0:48:38.86,0:48:45.53,legenda para abertura e encerramento,,0000,0000,0000,,Você está indo adiante, além da galáxia,
+Dialogue: 0,0:48:45.53,0:48:50.26,legenda para abertura e encerramento,,0000,0000,0000,,em direção à terra da luz, RISING HIGH!
+Dialogue: 0,0:48:52.87,0:48:59.54,legenda para abertura e encerramento,,0000,0000,0000,,O verão traz sua luz para nós.
+Dialogue: 0,0:48:59.54,0:49:04.88,legenda para abertura e encerramento,,0000,0000,0000,,É novo, e, por algum motivo, familiar.
+Dialogue: 0,0:49:04.88,0:49:13.89,legenda para abertura e encerramento,,0000,0000,0000,,Nós sentimos o forte raio\Nde luz batendo em nossos rostos,
+Dialogue: 0,0:49:13.89,0:49:22.67,legenda para abertura e encerramento,,0000,0000,0000,,E nossa coragem flui dentro de nós!
+Dialogue: 0,0:49:22.67,0:49:24.87,legenda para abertura e encerramento,,0000,0000,0000,,Let's Fly!
+Dialogue: 0,0:49:24.87,0:49:36.51,legenda para abertura e encerramento,,0000,0000,0000,,O azul do céu brilhante...\Ne o mar nada na nossa vista!
+Dialogue: 0,0:49:36.51,0:49:38.38,legenda para abertura e encerramento,,0000,0000,0000,,Net Sky!
+Dialogue: 0,0:49:38.38,0:49:49.69,legenda para abertura e encerramento,,0000,0000,0000,,Levantando nossas mãos para o alto,\Npara a luz, conectamo-nos com ele!
+Dialogue: 0,0:49:49.69,0:49:56.03,legenda para abertura e encerramento,,0000,0000,0000,,Algum dia,\Nnossos sorrisos chegarão lá também.
+Dialogue: 0,0:49:57.87,0:50:04.54,legenda para abertura e encerramento,,0000,0000,0000,,Estou seguindo adiante, além da galáxia,
+Dialogue: 0,0:50:04.54,0:50:11.04,legenda para abertura e encerramento,,0000,0000,0000,,em direção à terra da luz,\NRISING HIGH, RISING HIGH!
