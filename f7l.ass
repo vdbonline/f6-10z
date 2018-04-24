@@ -1,0 +1,290 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: fonte legenda,Tahoma,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para abertura e encerramento,@GungsuhChe,30,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para anuncio de episódio e creditos,Brush Script Std,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: LEGENDA PARA PODERES,AR JULIAN,35,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.00,0:00:29.34,fonte legenda,,0000,0000,0000,,N-Não. 17!
+Dialogue: 0,0:00:29.34,0:00:31.67,fonte legenda,,0000,0000,0000,,Por que você...
+Dialogue: 0,0:00:34.68,0:00:37.35,fonte legenda,,0000,0000,0000,,O que você está fazendo!?
+Dialogue: 0,0:00:37.35,0:00:40.34,fonte legenda,,0000,0000,0000,,Fui eu que te criei...
+Dialogue: 0,0:00:45.02,0:00:49.96,fonte legenda,,0000,0000,0000,,Seu monte de sucata miserável!
+Dialogue: 0,0:00:57.03,0:01:02.04,fonte legenda,,0000,0000,0000,,Doutor Gero foi morto\Npelo Andróide Número 17,
+Dialogue: 0,0:01:02.04,0:01:04.37,fonte legenda,,0000,0000,0000,,que ele mesmo havia construído.
+Dialogue: 0,0:01:04.37,0:01:05.81,fonte legenda,,0000,0000,0000,,No entanto...
+Dialogue: 0,0:01:10.05,0:01:14.32,fonte legenda,,0000,0000,0000,,...o computador que o Doutor\NGero usava continuou operando,
+Dialogue: 0,0:01:14.32,0:01:21.69,fonte legenda,,0000,0000,0000,,para criar o mais\Npoderoso de todos os Andróides.
+Dialogue: 0,0:01:47.68,0:01:53.02,legenda para abertura e encerramento,,0000,0000,0000,,Passe pelas nuvens brilhantes,\Ne Fly Away, (Fly Away)
+Dialogue: 0,0:01:53.02,0:02:00.03,legenda para abertura e encerramento,,0000,0000,0000,,Como um panorama que se\Nespalha por todo o meu ser
+Dialogue: 0,0:02:00.03,0:02:05.37,legenda para abertura e encerramento,,0000,0000,0000,,A Terra em seu rosto\Nferido se enfurece (enfurece)!
+Dialogue: 0,0:02:05.37,0:02:11.98,legenda para abertura e encerramento,,0000,0000,0000,,E faz um vulcão explodir!
+Dialogue: 0,0:02:11.98,0:02:18.65,legenda para abertura e encerramento,,0000,0000,0000,,E bem no fundo derretendo o gelo
+Dialogue: 0,0:02:18.65,0:02:27.66,legenda para abertura e encerramento,,0000,0000,0000,,eu acho um dinossauro, quero\Nensiná-lo a se equilibrar sobre uma bola
+Dialogue: 0,0:02:27.66,0:02:31.33,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:02:31.33,0:02:40.34,legenda para abertura e encerramento,,0000,0000,0000,,Não importa o que aconteça sinto\Ncomo se nada pudesse me incomodar
+Dialogue: 0,0:02:40.34,0:02:43.67,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:02:43.67,0:02:49.68,legenda para abertura e encerramento,,0000,0000,0000,,Meu coração está batendo tão forte,\Na Genki-Dama irá rugir!
+Dialogue: 0,0:02:49.68,0:02:53.02,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:02:53.02,0:03:02.03,legenda para abertura e encerramento,,0000,0000,0000,,Quanto mais vazia sua cabeça é, mais\Nespaço tem para preencher com sonhos
+Dialogue: 0,0:03:02.03,0:03:05.70,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:03:05.70,0:03:12.64,legenda para abertura e encerramento,,0000,0000,0000,,Com uma cara alegre e um Ultra-Z,\Nhoje está ai-yai-yai-yai-yai...
+Dialogue: 0,0:03:12.64,0:03:14.54,legenda para abertura e encerramento,,0000,0000,0000,,Sparking!
+Dialogue: 0,0:03:25.10,0:03:32.20,legenda para anuncio de episódio e creditos,,0000,0000,0000,,O RETORNO DOS ANDRÓIDES\NLEGENDAS: MAZZOCATO\NEDIÇÃO: HUGOKAMUS
+Dialogue: 0,0:04:03.59,0:04:08.55,fonte legenda,,0000,0000,0000,,Miss "Mundo" - Competição Mundial\NA Garota Mais Linda Do Mundo
+Dialogue: 0,0:04:11.29,0:04:14.23,fonte legenda,,0000,0000,0000,,Hey, Oolong, eles não vão começar isso logo?
+Dialogue: 0,0:04:14.23,0:04:15.80,fonte legenda,,0000,0000,0000,,O senhor é impaciente.
+Dialogue: 0,0:04:15.80,0:04:17.90,fonte legenda,,0000,0000,0000,,Eles falaram que vai\Ncomeçar às 7:00 da noite.
+Dialogue: 0,0:04:17.90,0:04:22.24,fonte legenda,,0000,0000,0000,,Foi só um certo velho sujo que\Nquis fazer fila desde já, pelo visto.
+Dialogue: 0,0:04:22.24,0:04:24.57,fonte legenda,,0000,0000,0000,,São os que sentam mais na frente
+Dialogue: 0,0:04:24.57,0:04:26.98,fonte legenda,,0000,0000,0000,,que conseguem ver\Nmelhor as garotas peitudas, sabia!?
+Dialogue: 0,0:04:26.98,0:04:27.98,fonte legenda,,0000,0000,0000,,Afinal de contas,
+Dialogue: 0,0:04:27.98,0:04:31.58,fonte legenda,,0000,0000,0000,,essa é a competição mundial da Miss "Mundo"!
+Dialogue: 0,0:04:31.58,0:04:35.24,fonte legenda,,0000,0000,0000,,Só de imaginar\Na minha pressão sanguínea aumenta!
+Dialogue: 0,0:04:42.59,0:04:44.33,fonte legenda,,0000,0000,0000,,Conseguir uma jovem garota peituda
+Dialogue: 0,0:04:44.33,0:04:47.00,fonte legenda,,0000,0000,0000,,para jogar pafu-pafu comigo\Ndepois de tanto tempo sem isso...
+Dialogue: 0,0:04:47.00,0:04:49.49,fonte legenda,,0000,0000,0000,,Garotas peitudas, hein?
+Dialogue: 0,0:04:59.94,0:05:05.62,fonte legenda,,0000,0000,0000,,Pessoal! Vocês dois, parem\Ncom seus pensamentos indecentes!
+Dialogue: 0,0:05:05.62,0:05:08.95,fonte legenda,,0000,0000,0000,,Estamos na frente\Nde Trunks aqui, lembram-se?
+Dialogue: 0,0:05:08.95,0:05:12.89,fonte legenda,,0000,0000,0000,,Um, Kuririn-san,\NEu precisa...
+Dialogue: 0,0:05:12.89,0:05:15.56,fonte legenda,,0000,0000,0000,,Vocês dois vão corromper\No coração puro desse jovem!
+Dialogue: 0,0:05:15.56,0:05:17.23,fonte legenda,,0000,0000,0000,,Ha! Olha só quem está falando!
+Dialogue: 0,0:05:17.23,0:05:20.90,fonte legenda,,0000,0000,0000,,Kuririn! Então o que\Nfoi que você disse agora há pouco?
+Dialogue: 0,0:05:20.90,0:05:23.60,fonte legenda,,0000,0000,0000,,Não há motivo para fazermos fila aqui!
+Dialogue: 0,0:05:23.60,0:05:25.90,fonte legenda,,0000,0000,0000,,Vamos dar uma olhada nos vestiários!\NRápido, vamos!
+Dialogue: 0,0:05:25.90,0:05:29.24,fonte legenda,,0000,0000,0000,,Podemos até dar uma espiada\Nnas garotas colocando seus biquínis!
+Dialogue: 0,0:05:29.24,0:05:34.58,fonte legenda,,0000,0000,0000,,Ah, estou pensando, será que tem\Nalguma garota bonita que seria minha noiva!?
+Dialogue: 0,0:05:34.58,0:05:38.11,fonte legenda,,0000,0000,0000,,O-oh, não, aquilo era só uma piada!
+Dialogue: 0,0:05:38.11,0:05:40.92,fonte legenda,,0000,0000,0000,,Aquilo era obviamente só uma piada, certo?
+Dialogue: 0,0:05:40.92,0:05:46.26,fonte legenda,,0000,0000,0000,,Eu quero ser um lutador de artes\Nmarciais que também faça piadas, entendem?!
+Dialogue: 0,0:05:46.26,0:05:49.59,fonte legenda,,0000,0000,0000,,Bem, Oolong,\Nvamos espiar o vestiário, só você e eu!
+Dialogue: 0,0:05:49.59,0:05:52.60,fonte legenda,,0000,0000,0000,,Claro! Kuririn,\Nguarde os nossos lugares!
+Dialogue: 0,0:05:52.60,0:05:56.09,fonte legenda,,0000,0000,0000,,Voltem, agora!\NEu vou chamar a polícia!
+Dialogue: 0,0:05:59.60,0:06:02.94,fonte legenda,,0000,0000,0000,,Trunks... desculpe!\NGuarde nossos lugares, ok?
+Dialogue: 0,0:06:02.94,0:06:04.94,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:06:04.94,0:06:08.28,fonte legenda,,0000,0000,0000,,O que vou fazer com eles?
+Dialogue: 0,0:06:08.28,0:06:12.18,fonte legenda,,0000,0000,0000,,Eu queria que Goku-san e os outros\Njá tivessem terminado de fazer as compras.
+Dialogue: 0,0:06:18.55,0:06:21.89,fonte legenda,,0000,0000,0000,,Eu peguei primeiro!
+Dialogue: 0,0:06:21.89,0:06:27.23,fonte legenda,,0000,0000,0000,,Gohan, por que as\Nmulheres adoram comprar tanto assim?
+Dialogue: 0,0:06:27.23,0:06:31.90,fonte legenda,,0000,0000,0000,,No caso da mamãe, parece que ela\Nfaz compras pra aliviar o estresse.
+Dialogue: 0,0:06:31.90,0:06:33.57,fonte legenda,,0000,0000,0000,,Talvez seja isso...
+Dialogue: 0,0:06:33.57,0:06:36.13,fonte legenda,,0000,0000,0000,,Goku-san, pegue esses também!
+Dialogue: 0,0:06:41.58,0:06:43.91,fonte legenda,,0000,0000,0000,,Já terminou, Chichi?
+Dialogue: 0,0:06:43.91,0:06:45.98,fonte legenda,,0000,0000,0000,,A próxima coisa é roupa para você, Goku-san!
+Dialogue: 0,0:06:45.98,0:06:48.32,fonte legenda,,0000,0000,0000,,Você veste a mesma coisa durante todo o ano!
+Dialogue: 0,0:06:48.32,0:06:50.88,fonte legenda,,0000,0000,0000,,Você vai vestir\Nalgo diferente de vez em quando!
+Dialogue: 0,0:07:15.88,0:07:18.18,fonte legenda,,0000,0000,0000,,...Só estou com uns problemas,\Nisso é tudo-
+Dialogue: 0,0:08:04.59,0:08:06.69,fonte legenda,,0000,0000,0000,,Son Goku...
+Dialogue: 0,0:08:06.93,0:08:10.43,fonte legenda,,0000,0000,0000,,"Boa Fortuna"
+Dialogue: 0,0:08:10.43,0:08:13.27,fonte legenda,,0000,0000,0000,,Kuririn e os outros deram mancada!
+Dialogue: 0,0:08:13.27,0:08:16.54,fonte legenda,,0000,0000,0000,,Só de pensar que eles\Npassaram o dia todo esperando!
+Dialogue: 0,0:08:16.54,0:08:19.48,fonte legenda,,0000,0000,0000,,Eu pensei que havia algo estranho, entende?
+Dialogue: 0,0:08:19.48,0:08:21.88,fonte legenda,,0000,0000,0000,,Quer dizer,\Nninguém estava na fila, exceto a gente.
+Dialogue: 0,0:08:21.88,0:08:24.87,fonte legenda,,0000,0000,0000,,Bem, nós teremos que esperar até amanhã.
+Dialogue: 0,0:08:41.56,0:08:42.39,fonte legenda,,0000,0000,0000,,Bem-vindos-
+Dialogue: 0,0:09:14.96,0:09:19.83,fonte legenda,,0000,0000,0000,,- O que há de errado?\N- Qual o problema?
+Dialogue: 0,0:09:36.89,0:09:43.23,fonte legenda,,0000,0000,0000,,Gohan, você tem que comer mais!\NSe não você nunca vai crescer!
+Dialogue: 0,0:09:43.23,0:09:46.90,fonte legenda,,0000,0000,0000,,Eu não tenho o mesmo\Napetite que o senhor, papai.
+Dialogue: 0,0:09:46.90,0:09:49.03,fonte legenda,,0000,0000,0000,,Você deveria parar\Nde comer antes de ficar cheio.
+Dialogue: 0,0:09:49.03,0:09:51.90,fonte legenda,,0000,0000,0000,,Se comer demais,\No sangue não vai para a sua cabeça, sabia?
+Dialogue: 0,0:09:51.90,0:09:54.20,fonte legenda,,0000,0000,0000,,E isso atrapalha os seus estudos.
+Dialogue: 0,0:10:05.25,0:10:09.18,fonte legenda,,0000,0000,0000,,Com licença, alguém pode me servir?
+Dialogue: 0,0:10:17.59,0:10:19.93,fonte legenda,,0000,0000,0000,,Son Goku!
+Dialogue: 0,0:10:19.93,0:10:22.33,fonte legenda,,0000,0000,0000,,Son Goku...
+Dialogue: 0,0:10:38.95,0:10:40.11,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:11:05.31,0:11:08.11,fonte legenda,,0000,0000,0000,,G-Gohan, não me solte!
+Dialogue: 0,0:11:23.59,0:11:27.93,fonte legenda,,0000,0000,0000,,Quem fez tudo isso?
+Dialogue: 0,0:11:47.95,0:11:51.29,fonte legenda,,0000,0000,0000,,Gohan, leve Chichi a um lugar seguro!\NKuririn, Trunks, vocês também!
+Dialogue: 0,0:11:51.29,0:11:53.96,fonte legenda,,0000,0000,0000,,Levem todos para o mais longe possível!
+Dialogue: 0,0:11:53.96,0:11:56.29,fonte legenda,,0000,0000,0000,,Ah! Aqueles sapatos altos foram caros!
+Dialogue: 0,0:11:56.29,0:11:57.95,fonte legenda,,0000,0000,0000,,Mamãe!
+Dialogue: 0,0:12:12.24,0:12:15.01,fonte legenda,,0000,0000,0000,,Tenho certeza,\Nparece que eles só estão atrás de mim.
+Dialogue: 0,0:12:24.59,0:12:26.65,fonte legenda,,0000,0000,0000,,Quem são vocês?
+Dialogue: 0,0:12:36.60,0:12:43.40,fonte legenda,,0000,0000,0000,,Como não consigo sentir nenhum Ki vindo\Nde vocês, concluo que não são humanos, hein?
+Dialogue: 0,0:12:48.94,0:12:52.45,fonte legenda,,0000,0000,0000,,Entendo. Quer dizer\Nque vocês são Andróides
+Dialogue: 0,0:12:52.45,0:12:55.62,fonte legenda,,0000,0000,0000,,criados pelo Doutor Gero, hein?
+Dialogue: 0,0:12:55.62,0:12:58.35,fonte legenda,,0000,0000,0000,,Ele não desiste facilmente, não é?
+Dialogue: 0,0:14:09.29,0:14:10.45,fonte legenda,,0000,0000,0000,,Goku-san!
+Dialogue: 0,0:14:10.96,0:14:12.62,fonte legenda,,0000,0000,0000,,Trunks!
+Dialogue: 0,0:14:26.58,0:14:30.91,fonte legenda,,0000,0000,0000,,Goku-san! Se lutarmos aqui,\No número de vítimas vai aumentar!
+Dialogue: 0,0:14:30.91,0:14:34.58,fonte legenda,,0000,0000,0000,,Vamos para o cinturão glacial\Nao norte, onde não há ninguém em volta!
+Dialogue: 0,0:14:34.58,0:14:35.58,fonte legenda,,0000,0000,0000,,Tudo Bem!
+Dialogue: 0,0:14:35.58,0:14:37.21,fonte legenda,,0000,0000,0000,,Vocês, venham!
+Dialogue: 0,0:14:57.27,0:14:59.28,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:14:59.28,0:15:01.61,fonte legenda,,0000,0000,0000,,Gohan, infelizmente,
+Dialogue: 0,0:15:01.61,0:15:03.95,fonte legenda,,0000,0000,0000,,acho que não podemos fazer nada dessa vez.
+Dialogue: 0,0:15:03.95,0:15:05.95,fonte legenda,,0000,0000,0000,,Nossos níveis são muito diferentes.
+Dialogue: 0,0:15:05.95,0:15:10.62,fonte legenda,,0000,0000,0000,,Mesmo assim, podemos\Najudar de alguma forma! Eu vou!
+Dialogue: 0,0:15:10.62,0:15:12.28,fonte legenda,,0000,0000,0000,,- Gohan!\N- Não, não vai!
+Dialogue: 0,0:15:15.22,0:15:18.93,fonte legenda,,0000,0000,0000,,A partir de amanhã,\Nvocê tem um curso escolar de verão, lembra!?
+Dialogue: 0,0:15:18.93,0:15:20.90,fonte legenda,,0000,0000,0000,,Nós já pagamos as taxas!
+Dialogue: 0,0:15:20.90,0:15:21.90,fonte legenda,,0000,0000,0000,,M-mas...
+Dialogue: 0,0:15:21.90,0:15:23.50,fonte legenda,,0000,0000,0000,,Durante essas férias de verão,
+Dialogue: 0,0:15:23.50,0:15:27.24,fonte legenda,,0000,0000,0000,,você me prometeu que iria estudar, lembra!?
+Dialogue: 0,0:15:27.24,0:15:29.97,fonte legenda,,0000,0000,0000,,Mamãe, entre estudar e a vida do Papai,
+Dialogue: 0,0:15:29.97,0:15:32.91,fonte legenda,,0000,0000,0000,,qual é mais importante!?
+Dialogue: 0,0:15:32.91,0:15:34.57,fonte legenda,,0000,0000,0000,,Ah, Gohan!
+Dialogue: 0,0:15:36.91,0:15:39.14,fonte legenda,,0000,0000,0000,,Venha aqui, Gohan!
+Dialogue: 0,0:15:43.25,0:15:44.62,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:15:45.59,0:15:46.92,fonte legenda,,0000,0000,0000,,Chichi-san...
+Dialogue: 0,0:15:46.92,0:15:50.59,fonte legenda,,0000,0000,0000,,Eu sei bem\Ncomo Gohan deve estar se sentindo.
+Dialogue: 0,0:15:50.59,0:15:52.49,fonte legenda,,0000,0000,0000,,Kuririn!
+Dialogue: 0,0:15:54.60,0:15:58.66,fonte legenda,,0000,0000,0000,,O que ainda está fazendo aqui!?\NVocê tem que ir atrás dele!
+Dialogue: 0,0:16:01.27,0:16:02.60,fonte legenda,,0000,0000,0000,,Apresse-se e vá!
+Dialogue: 0,0:16:02.60,0:16:03.59,fonte legenda,,0000,0000,0000,,Ee-yow!
+Dialogue: 0,0:16:05.94,0:16:09.27,fonte legenda,,0000,0000,0000,,Kuririn, tome cuidado, ok?
+Dialogue: 0,0:16:10.95,0:16:15.41,fonte legenda,,0000,0000,0000,,Droga. Acho que nunca vou\Nencontrar uma noiva nessa vida.
+Dialogue: 0,0:16:40.91,0:16:43.61,fonte legenda,,0000,0000,0000,,Son Goku...
+Dialogue: 0,0:17:10.27,0:17:13.88,fonte legenda,,0000,0000,0000,,Não há ninguém que possa me segurar aqui!
+Dialogue: 0,0:17:13.88,0:17:14.88,fonte legenda,,0000,0000,0000,,Agora, vamos!
+Dialogue: 0,0:17:14.88,0:17:18.07,fonte legenda,,0000,0000,0000,,Não vou deixar\Nencostarem um dedo em Goku-san!
+Dialogue: 0,0:17:25.22,0:17:27.38,fonte legenda,,0000,0000,0000,,Trunks...
+Dialogue: 0,0:17:34.23,0:17:35.56,fonte legenda,,0000,0000,0000,,Trunks!
+Dialogue: 0,0:18:00.26,0:18:02.05,fonte legenda,,0000,0000,0000,,G-Goku-san!
+Dialogue: 0,0:18:09.60,0:18:14.56,fonte legenda,,0000,0000,0000,,Parece que nem mesmo Son Goku\Npode lutar do jeito que ele tinha esperado.
+Dialogue: 0,0:18:41.23,0:18:46.57,fonte legenda,,0000,0000,0000,,Aquele Doutor Gero...\NQuantos andróides ele fez?
+Dialogue: 0,0:18:46.57,0:18:50.71,fonte legenda,,0000,0000,0000,,Somos andróides, nascidos\Ndo computador que o Doutor Gero usava,
+Dialogue: 0,0:18:50.71,0:18:54.91,fonte legenda,,0000,0000,0000,,com o único propósito de matar você.
+Dialogue: 0,0:18:54.91,0:18:57.58,fonte legenda,,0000,0000,0000,,Do computador dele? Para me matar?
+Dialogue: 0,0:18:57.58,0:19:03.92,fonte legenda,,0000,0000,0000,,O desejo do doutor Gero de ser vingar\Nde você foi transferido para o computador.
+Dialogue: 0,0:19:03.92,0:19:06.32,fonte legenda,,0000,0000,0000,,Nós somos os que\Nforam criados do ódio que cresceu
+Dialogue: 0,0:19:06.32,0:19:10.52,fonte legenda,,0000,0000,0000,,dentro do computador uma\Nvez que ele obteve o desejo de vingança.
+Dialogue: 0,0:19:12.53,0:19:17.50,fonte legenda,,0000,0000,0000,,Son Goku, todos os seus dados foram\Ncolocados dentro do computador,
+Dialogue: 0,0:19:17.50,0:19:19.87,fonte legenda,,0000,0000,0000,,e assim podemos prever cada movimento seu.
+Dialogue: 0,0:19:19.87,0:19:24.54,fonte legenda,,0000,0000,0000,,É por isso que o Número 15\Npôde ler cada movimento seu.
+Dialogue: 0,0:19:24.54,0:19:28.54,fonte legenda,,0000,0000,0000,,Como um computador pode\Nfazer o ódio de alguém crescer por si só!?
+Dialogue: 0,0:19:28.54,0:19:33.22,fonte legenda,,0000,0000,0000,,Garoto,\Nnosso único objetivo é matar Son Goku.
+Dialogue: 0,0:19:33.22,0:19:36.39,fonte legenda,,0000,0000,0000,,Entretanto, se você ficar no caminho,\Nentão já é outra história!
+Dialogue: 0,0:19:36.39,0:19:41.56,fonte legenda,,0000,0000,0000,,Nós mataremos\Nqualquer um que defender Son Goku!
+Dialogue: 0,0:19:41.56,0:19:46.23,fonte legenda,,0000,0000,0000,,Nós veremos se isso vai ser tão fácil assim.
+Dialogue: 0,0:19:46.23,0:19:48.30,fonte legenda,,0000,0000,0000,,Vamos ver se você\Nagüenta um minuto com No. 14 e No. 15
+Dialogue: 0,0:19:48.30,0:19:50.93,fonte legenda,,0000,0000,0000,,como seus oponentes.
+Dialogue: 0,0:19:53.57,0:19:54.57,fonte legenda,,0000,0000,0000,,Kuririn-san...
+Dialogue: 0,0:19:54.57,0:19:55.97,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:20:06.58,0:20:08.25,fonte legenda,,0000,0000,0000,,K-Kuririn-san?
+Dialogue: 0,0:20:08.25,0:20:10.12,fonte legenda,,0000,0000,0000,,Incrível...
+Dialogue: 0,0:20:10.12,0:20:13.72,fonte legenda,,0000,0000,0000,,Teremos que apenas assistir\Ncomo as coisas se desenrolam por enquanto.
+Dialogue: 0,0:20:13.92,0:20:17.53,fonte legenda,,0000,0000,0000,,Son Goku, lutará comigo agora.
+Dialogue: 0,0:20:17.53,0:20:22.26,fonte legenda,,0000,0000,0000,,Todos os nossos circuitos\Nforam construídos para derrotar você.
+Dialogue: 0,0:20:22.26,0:20:25.60,fonte legenda,,0000,0000,0000,,Você não pode escapar vivo desse lugar.
+Dialogue: 0,0:20:25.60,0:20:30.94,fonte legenda,,0000,0000,0000,,Vocês colocam pessoas\Ninocentes em fogo cruzado só para me matar?
+Dialogue: 0,0:20:30.94,0:20:33.24,fonte legenda,,0000,0000,0000,,Eu definitivamente\Nnão vou deixar vocês escaparem!
+Dialogue: 0,0:21:00.30,0:21:00.97,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:21:00.97,0:21:04.74,fonte legenda,,0000,0000,0000,,Espere, Gohan! Com nossos poderes,\Nnão há nada que possamos fazer!
+Dialogue: 0,0:21:12.58,0:21:13.88,fonte legenda,,0000,0000,0000,,Goku-san!
+Dialogue: 0,0:21:34.94,0:21:36.87,fonte legenda,,0000,0000,0000,,Trunks-san!
+Dialogue: 0,0:22:01.63,0:22:03.37,fonte legenda,,0000,0000,0000,,Assim como eu esperava.
+Dialogue: 0,0:22:03.37,0:22:06.96,fonte legenda,,0000,0000,0000,,E pensar que você pôde receber\Naquela minha rajada e ainda sair vivo!
+Dialogue: 0,0:23:57.95,0:23:59.61,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:23:59.61,0:24:00.60,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:24:07.96,0:24:12.23,fonte legenda,,0000,0000,0000,,Está dizendo que planeja\Npegar todo o meu "S.S. Deadly Bomber"!?
+Dialogue: 0,0:24:12.23,0:24:16.79,fonte legenda,,0000,0000,0000,,Ele tem bastante poder\Npara destruir metade desse planeta!
+Dialogue: 0,0:24:37.59,0:24:38.81,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:25:03.28,0:25:04.61,fonte legenda,,0000,0000,0000,,Vegeta!
+Dialogue: 0,0:25:04.61,0:25:05.95,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:25:05.95,0:25:11.89,fonte legenda,,0000,0000,0000,,Não entenda mal, Kakarotto.\NEu não vim te salvar.
+Dialogue: 0,0:25:11.89,0:25:14.59,fonte legenda,,0000,0000,0000,,Afinal de contas,\Nquem vai te derrotar sou eu...
+Dialogue: 0,0:25:14.59,0:25:17.56,fonte legenda,,0000,0000,0000,,Vegeta-sama, príncipe dos Saiya-jins!
+Dialogue: 0,0:25:18.56,0:25:21.13,fonte legenda,,0000,0000,0000,,Vocês acham que eu deixaria\Nbonecos ridículos como vocês
+Dialogue: 0,0:25:21.13,0:25:24.23,fonte legenda,,0000,0000,0000,,me tirarem o direito de acabar com ele!?
+Dialogue: 0,0:25:24.23,0:25:28.57,fonte legenda,,0000,0000,0000,,Son Goku ainda tem um\Ncompanheiro de viagem para o outro mundo.
+Dialogue: 0,0:25:28.57,0:25:31.40,fonte legenda,,0000,0000,0000,,Número 15, cuide dele!
+Dialogue: 0,0:25:53.93,0:25:56.02,fonte legenda,,0000,0000,0000,,Vamos continuar, Son Goku...
+Dialogue: 0,0:26:30.23,0:26:34.90,fonte legenda,,0000,0000,0000,,Qual é o problema, Son Goku?\NEu estou apenas me aquecendo!
+Dialogue: 0,0:26:34.90,0:26:38.13,fonte legenda,,0000,0000,0000,,Ou será que você está\Ncom muito medo para sair?
+Dialogue: 0,0:26:47.92,0:26:50.49,fonte legenda,,0000,0000,0000,,Eu ouvi o que vocês estão falando!
+Dialogue: 0,0:26:50.49,0:26:53.55,fonte legenda,,0000,0000,0000,,Vocês subestimam o nosso poder!
+Dialogue: 0,0:27:34.90,0:27:37.96,fonte legenda,,0000,0000,0000,,Não fique tão\Nconvencido, seu pedaço de merda!
+Dialogue: 0,0:28:17.87,0:28:19.43,fonte legenda,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:28:27.88,0:28:28.88,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:28:28.88,0:28:32.94,fonte legenda,,0000,0000,0000,,Eles conseguiram!\NTodos os três Super Saiya-jins estão juntos!
+Dialogue: 0,0:29:27.21,0:29:28.21,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:29:28.21,0:29:29.90,fonte legenda,,0000,0000,0000,,Isso aí, Goku!
+Dialogue: 0,0:29:42.22,0:29:43.89,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:29:43.89,0:29:45.38,fonte legenda,,0000,0000,0000,,Pare, Gohan!
+Dialogue: 0,0:29:48.56,0:29:50.69,fonte legenda,,0000,0000,0000,,Ah! Gohan, não!
+Dialogue: 0,0:29:57.57,0:29:58.70,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:30:04.91,0:30:06.58,fonte legenda,,0000,0000,0000,,É o Piccolo-san!
+Dialogue: 0,0:30:06.58,0:30:08.57,fonte legenda,,0000,0000,0000,,P-Piccolo?
+Dialogue: 0,0:30:21.60,0:30:23.60,fonte legenda,,0000,0000,0000,,Ei, Son!
+Dialogue: 0,0:30:23.60,0:30:26.27,fonte legenda,,0000,0000,0000,,É Piccolo-san, certo!
+Dialogue: 0,0:30:26.27,0:30:27.86,fonte legenda,,0000,0000,0000,,Piccolo!
+Dialogue: 0,0:30:32.61,0:30:34.61,fonte legenda,,0000,0000,0000,,Piccolo, te devo uma.
+Dialogue: 0,0:30:34.61,0:30:35.94,fonte legenda,,0000,0000,0000,,Ainda não acabou.
+Dialogue: 0,0:30:35.94,0:30:38.28,fonte legenda,,0000,0000,0000,,Ele está certo.
+Dialogue: 0,0:30:38.28,0:30:40.62,fonte legenda,,0000,0000,0000,,Você é Piccolo, certo?
+Dialogue: 0,0:30:40.62,0:30:43.62,fonte legenda,,0000,0000,0000,,Se você vai interferir\Nna minha luta com Son Goku,
+Dialogue: 0,0:30:43.62,0:30:46.29,fonte legenda,,0000,0000,0000,,então vou te matar\Ntambém enquanto eu estiver aqui
+Dialogue: 0,0:30:46.29,0:30:48.76,fonte legenda,,0000,0000,0000,,Você espera que eu te\Ndeixe me matar enquanto está aqui?
+Dialogue: 0,0:30:48.76,0:30:51.69,fonte legenda,,0000,0000,0000,,É você que vai sair daqui morto!
+Dialogue: 0,0:31:53.96,0:31:57.19,fonte legenda,,0000,0000,0000,,Afinal de contas, vocês\Nnão são nada mais que manequins de sucata!
+Dialogue: 0,0:31:57.96,0:32:01.83,fonte legenda,,0000,0000,0000,,Número 14 e Número 15\Nnão conseguiram, não é?
+Dialogue: 0,0:33:03.62,0:33:04.63,fonte legenda,,0000,0000,0000,,Vegeta!
+Dialogue: 0,0:33:04.63,0:33:07.96,fonte legenda,,0000,0000,0000,,Kakarotto, Piccolo, fiquem fora disso!
+Dialogue: 0,0:33:07.96,0:33:10.09,fonte legenda,,0000,0000,0000,,Eu vou destruí-lo!
+Dialogue: 0,0:33:21.24,0:33:22.54,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:33:34.59,0:33:36.08,fonte legenda,,0000,0000,0000,,Vegeta!
+Dialogue: 0,0:33:38.93,0:33:41.29,fonte legenda,,0000,0000,0000,,Por que sempre acontece comigo?
+Dialogue: 0,0:33:44.27,0:33:45.66,fonte legenda,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:34:30.24,0:34:31.58,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:34:34.92,0:34:38.35,fonte legenda,,0000,0000,0000,,Eu serei aquele que derrotará Kakarotto!
+Dialogue: 0,0:34:40.25,0:34:42.62,fonte legenda,,0000,0000,0000,,Goku... - san!
+Dialogue: 0,0:35:45.59,0:35:47.25,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:35:55.93,0:35:56.93,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:35:56.93,0:35:58.73,fonte legenda,,0000,0000,0000,,Seu monstro miserável!
+Dialogue: 0,0:36:03.27,0:36:04.67,fonte legenda,,0000,0000,0000,,Tome isso!
+Dialogue: 0,0:36:12.21,0:36:13.84,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:36:18.89,0:36:20.58,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:36:36.90,0:36:41.91,fonte legenda,,0000,0000,0000,,Me dêem... suas energias...
+Dialogue: 0,0:36:41.91,0:36:47.94,fonte legenda,,0000,0000,0000,,Compartilhem suas... energias... comigo!
+Dialogue: 0,0:37:38.23,0:37:39.39,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:37:47.91,0:37:55.92,fonte legenda,,0000,0000,0000,,Compartilhem comigo...\Ncompartilhem comigo... suas energias!
+Dialogue: 0,0:37:55.92,0:38:00.11,fonte legenda,,0000,0000,0000,,Dos oceanos... das montanhas...
+Dialogue: 0,0:38:04.59,0:38:08.43,fonte legenda,,0000,0000,0000,,Kakarotto me pertence!
+Dialogue: 0,0:38:08.43,0:38:10.86,fonte legenda,,0000,0000,0000,,Não ponha\Nsuas mãos nele sem minha permissão!
+Dialogue: 0,0:38:34.89,0:38:40.56,fonte legenda,,0000,0000,0000,,Compartilhem\Ntodas as suas energias... comigo!
+Dialogue: 0,0:38:53.91,0:38:57.24,fonte legenda,,0000,0000,0000,,Deixem Goku-san...\Nfazer aquela Genki Dama...
+Dialogue: 0,0:39:02.58,0:39:05.19,fonte legenda,,0000,0000,0000,,Venha, andróide!
+Dialogue: 0,0:39:05.19,0:39:09.49,fonte legenda,,0000,0000,0000,,Sou aquele que\Nveio vinte anos do futuro. Trunks!
+Dialogue: 0,0:39:12.86,0:39:18.53,fonte legenda,,0000,0000,0000,,Daqui a vinte anos,\Nna Terra, você não existe!
+Dialogue: 0,0:39:18.53,0:39:23.83,fonte legenda,,0000,0000,0000,,Isso porque hoje, aqui,\Nvocê será derrotado por Goku-san!
+Dialogue: 0,0:40:15.26,0:40:20.16,fonte legenda,,0000,0000,0000,,Son! Mostre para\Nele o poder de um Super Saiya-jin!
+Dialogue: 0,0:40:26.93,0:40:29.50,fonte legenda,,0000,0000,0000,,G-Goku, não vai funcionar!
+Dialogue: 0,0:40:29.50,0:40:33.27,fonte legenda,,0000,0000,0000,,Você não pode fazer uma Genki Dama\Ncomo Super Saiya-jin!
+Dialogue: 0,0:40:33.27,0:40:37.21,fonte legenda,,0000,0000,0000,,Você não pode fazer uma Genki Dama\Ncom um coração cheio de malícia!
+Dialogue: 0,0:42:04.97,0:42:06.69,fonte legenda,,0000,0000,0000,,Son Goku!
+Dialogue: 0,0:42:13.91,0:42:17.84,fonte legenda,,0000,0000,0000,,Son Goku!!
+Dialogue: 0,0:43:19.47,0:43:21.13,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:43:22.31,0:43:23.71,fonte legenda,,0000,0000,0000,,Ei!
+Dialogue: 0,0:43:29.98,0:43:34.19,fonte legenda,,0000,0000,0000,,Ao mesmo tempo em que\NGoku se transformou em um Super Saiya-jin,
+Dialogue: 0,0:43:34.19,0:43:40.59,fonte legenda,,0000,0000,0000,,ele inconscientemente absorveu a energia\Nda Genki Dama que se dissipou nele mesmo.
+Dialogue: 0,0:43:40.59,0:43:41.66,fonte legenda,,0000,0000,0000,,Tem que ser isso!
+Dialogue: 0,0:43:41.66,0:43:44.00,fonte legenda,,0000,0000,0000,,Eu nunca saberei!
+Dialogue: 0,0:43:44.00,0:43:47.60,fonte legenda,,0000,0000,0000,,Kuririn-san, muito bem!
+Dialogue: 0,0:43:47.60,0:43:49.94,fonte legenda,,0000,0000,0000,,Você também, Trunks!
+Dialogue: 0,0:43:49.94,0:43:52.61,fonte legenda,,0000,0000,0000,,Isso é o que acontece\Nquando você não faz algo de vez em quando!
+Dialogue: 0,0:43:52.61,0:43:56.27,fonte legenda,,0000,0000,0000,,Oolong! Yow-ow-ow!
+Dialogue: 0,0:43:57.61,0:44:01.28,fonte legenda,,0000,0000,0000,,Não exagere, Kuririn!
+Dialogue: 0,0:44:01.28,0:44:02.62,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:44:02.62,0:44:06.45,fonte legenda,,0000,0000,0000,,Apresse-se e melhore,\Npara poder ir para o curso de verão!
+Dialogue: 0,0:44:10.29,0:44:15.63,fonte legenda,,0000,0000,0000,,A propósito, Piccolo-san\Ne Vegeta-san vão ficar bem?
+Dialogue: 0,0:44:15.63,0:44:18.00,fonte legenda,,0000,0000,0000,,Não é como se fossem morrer, sabe!?
+Dialogue: 0,0:44:49.33,0:44:53.99,legenda para abertura e encerramento,,0000,0000,0000,,O que é que espera por mim?\NNinguém pode dizer!
+Dialogue: 0,0:44:57.50,0:45:00.44,legenda para abertura e encerramento,,0000,0000,0000,,Uma tática infinita,\Ncom uma sede por sangue,
+Dialogue: 0,0:45:00.44,0:45:04.04,legenda para abertura e encerramento,,0000,0000,0000,,rodeia sem misericórdia!
+Dialogue: 0,0:45:06.51,0:45:09.95,legenda para abertura e encerramento,,0000,0000,0000,,Nós subimos para encarar\Ntudo diante dos nossos olhos,
+Dialogue: 0,0:45:09.95,0:45:19.03,legenda para abertura e encerramento,,0000,0000,0000,,enquanto isso se torna nosso tempo!
+Dialogue: 0,0:45:19.03,0:45:20.96,legenda para abertura e encerramento,,0000,0000,0000,,Minha fúria (ela está no seu limite!),
+Dialogue: 0,0:45:20.96,0:45:23.23,legenda para abertura e encerramento,,0000,0000,0000,,e sim, meu poder (ele está no seu limite!)
+Dialogue: 0,0:45:23.23,0:45:25.43,legenda para abertura e encerramento,,0000,0000,0000,,Meu limite (ele está no seu limite!),
+Dialogue: 0,0:45:25.43,0:45:28.63,legenda para abertura e encerramento,,0000,0000,0000,,e sim, meus limites\N(estão aos seus limites!)
